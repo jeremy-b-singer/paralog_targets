@@ -1,4 +1,4 @@
-# Fan out AA_fasta file from plasmodb
+# Fan out AA_fasta file from plasmodbc
 # based on the structure of Plasmodium AA_orf files.
 # FASTA headers come in two varieties:
 # 1. >Pf3D7_01_v3-1-60871-61059 | organism=Plasmodium_falciparum_3D7 | location=Pf3D7_01_v3:60871-61059(+) | length=63 | sequence_SO=chromosome
