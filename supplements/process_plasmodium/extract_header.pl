@@ -6,12 +6,17 @@ my $phase = 0;
 my @rec = {};
 my $rec_string;
 my %recs = ();
-
+my $query;
 foreach my $line(@lines)
 {
 	switch($phase){
 		case 0 {
-			if ( $line =~ m/\>\s(\S+)/) # orf id
+			if ( $line =~ m/Query=\s*(\S+)/)
+			{
+				$query = $1;
+			}
+			
+			if ( $line =~ m/\>\s*(\S+)/) # orf id
 			{
 				$phase = 1;
 				$rec[0] = $1;
@@ -48,5 +53,5 @@ foreach my $line(@lines)
 }
 
 foreach my $record(keys %recs){
-	print "$record\n";
+	print "$query\t$record\n";
 }
