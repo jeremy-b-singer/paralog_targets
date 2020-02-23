@@ -11,7 +11,7 @@ h= hist(log(stats$score),breaks=length(stats$score)/20,main= paste("Histogram lo
 xmean=match(max(h$counts),h$counts)
 
 n=function(x){
-  dnorm(x,mean=median(log(stats$score)),sd=mad(log(stats$score))*1.1) * max(h$counts) * sig
+  dnorm(x,mean=median(log(stats$score))-h$density[1]/2,sd=mad(log(stats$score))*1.1) * max(h$counts) * sig
 }
 
 curve(n,from=3,to=8,add=TRUE,col='red')
