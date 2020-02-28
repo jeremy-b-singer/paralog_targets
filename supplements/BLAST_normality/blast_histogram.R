@@ -6,7 +6,6 @@ sig=dmax/2.06745
 
 # scores are log normally distributed
 
-attach(stats)
 h= hist(log(stats$score),breaks=length(stats$score)/20,main= paste("Histogram log(score) for",organism))
 xmean=match(max(h$counts),h$counts)
 
@@ -16,18 +15,12 @@ n=function(x){
 
 curve(n,from=3,to=8,add=TRUE,col='red')
 
-thresh=median(log(score))+1*mad(log(score))
-abline(v=thresh,col='blue')
-points(thresh,max(h$counts),pch='1')
-thresh=median(log(score))+2*mad(log(score))
-abline(v=thresh,col='blue')
-points(thresh,max(h$counts),pch='2')
-thresh=median(log(score))+3*mad(log(score))
-abline(v=thresh,col='blue')
-points(thresh,max(h$counts),pch='3')
-thresh=median(log(score))+4*mad(log(score))
-points(thresh,max(h$counts),pch='4')
-abline(v=thresh,col='blue')
+for (i in 1:5){
+  thresh=median(log(stats$score))+i*mad(log(stats$score))
+  abline(v=thresh,col='blue')
+  points(thresh,max(h$counts),pch=as.character(i))
+}
 
-detach()
+hmmer_hist=hist(log(consolidated_stats$hmmer_score),breaks=length(consolidated_stats$hmmer_score)/20)
+
 
