@@ -1,4 +1,5 @@
-# P vivax drugs
+# organism_hmmer_threshold.R
+# computes kmeans based threshold for selecting targets.
 
 library(RPostgres)
 
