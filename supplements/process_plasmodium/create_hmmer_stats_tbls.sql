@@ -15,9 +15,9 @@ CREATE TABLE hmmer_statistics
 
 CREATE TABLE hmmer_statistics_import
 (
-	  target character varying(30)
+	  target character varying(50)
         , tlen  int
-        , orf   character varying(30)
+        , orf   character varying(100)
         , qlen  int
         , evalue numeric
         , score numeric
