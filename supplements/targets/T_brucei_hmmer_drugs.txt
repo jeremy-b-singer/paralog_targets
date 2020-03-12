@@ -1,0 +1,377 @@
+avg_score	original_tax_id	orig_organism	pref_name	chembl_id	mechanism_of_action	max_phase	first_approval
+949.8000000000000000	11676	Human immunodeficiency virus 1	ABACAVIR SULFATE	CHEMBL1200619	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	1998
+886.3666666666666667	9606	Homo sapiens	ABALOPARATIDE	CHEMBL3301581	Parathyroid hormone receptor agonist	4	2017
+1878.0666666666666667	9606	Homo sapiens	ABCIXIMAB	CHEMBL1201584	Integrin alpha-V/beta-3 inhibitor	4	1993
+1878.0666666666666667	9606	Homo sapiens	ABITUZUMAB	CHEMBL2109621	Integrin alpha-V/beta-3 inhibitor	2	
+924.8000000000000000	9606	Homo sapiens	ABL-001	CHEMBL3545115	Tyrosine-protein kinase ABL inhibitor	3	
+886.5000000000000000	9606	Homo sapiens	ACECLOFENAC	CHEMBL93645	Cyclooxygenase-2 inhibitor	4	
+2283.1500000000000000	9606	Homo sapiens	ACETAMINOPHEN	CHEMBL112	Anandamide amidohydrolase inhibitor	4	1968
+859.7000000000000000	11676	Human immunodeficiency virus 1	AD-159	CHEMBL2109444	Envelope glycoprotein gp160 inhibitor	2	
+847.5000000000000000	9606	Homo sapiens	ADAPALENE	CHEMBL1265	Retinoic acid receptor agonist	4	1996
+884.4000000000000000	9606	Homo sapiens	AG-24322	CHEMBL3545420	Cyclin-dependent kinase 1 inhibitor	1	
+1098.4250000000000000	9606	Homo sapiens	ALMOTRIPTAN MALATE	CHEMBL1200521	Serotonin 1d (5-HT1d) receptor agonist	4	2001
+1048.6000000000000000	9606	Homo sapiens	ALSEROXYLON	CHEMBL1201454	Adrenergic receptor alpha antagonist	4	1982
+884.4000000000000000	9606	Homo sapiens	ALVOCIDIB	CHEMBL428690	Cyclin-dependent kinase 1 inhibitor	3	
+867.7500000000000000	9606	Homo sapiens	AMA0076	CHEMBL3545073	Rho-associated protein kinase inhibitor	2	
+886.6000000000000000	9606	Homo sapiens	AMG-108	CHEMBL2109458	Interleukin-1 receptor antagonist	2	
+2219.8000000000000000	2	Bacteria	AMIKACIN SULFATE	CHEMBL1164318	Bacterial 70S ribosome inhibitor	4	1981
+962.7500000000000000	2	Bacteria	AMOXICILLIN	CHEMBL1082	Bacterial penicillin-binding protein inhibitor	4	1974
+962.7500000000000000	2	Bacteria	AMPICILLIN	CHEMBL174	Bacterial penicillin-binding protein inhibitor	4	1965
+962.7500000000000000	2	Bacteria	AMPICILLIN SODIUM	CHEMBL1200758	Bacterial penicillin-binding protein inhibitor	4	1971
+886.6000000000000000	9606	Homo sapiens	ANAKINRA	CHEMBL1201570	Interleukin-1 receptor antagonist	4	2001
+895.6500000000000000	9606	Homo sapiens	ANILERIDINE HYDROCHLORIDE	CHEMBL1201047	Kappa opioid receptor agonist	4	1982
+895.6500000000000000	9606	Homo sapiens	ANILERIDINE PHOSPHATE	CHEMBL1200543	Kappa opioid receptor agonist	4	1982
+882.4000000000000000	9606	Homo sapiens	ANLOTINIB	CHEMBL3545021	Vascular endothelial growth factor receptor 3 inhibitor	2	
+958.5500000000000000	9606	Homo sapiens	ANTITHROMBIN ALFA	CHEMBL1201554	Thrombin inhibitor	4	
+886.5000000000000000	9606	Homo sapiens	APRICOXIB	CHEMBL1835207	Cyclooxygenase-2 inhibitor	2	
+958.5500000000000000	9606	Homo sapiens	ARGATROBAN	CHEMBL1166	Thrombin inhibitor	4	2000
+1033.7000000000000000	9606	Homo sapiens	AS-703988	CHEMBL3545243	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	1	
+1273.9250000000000000	9606	Homo sapiens	ASAPIPRANT	CHEMBL3545043	Prostanoid DP receptor antagonist	3	
+931.8000000000000000	9606	Homo sapiens	ASM-024	CHEMBL3707249	Neuronal acetylcholine receptor; alpha3/beta4 antagonist	2	
+867.7500000000000000	9606	Homo sapiens	AT-13148	CHEMBL3544960	Rho-associated protein kinase inhibitor	1	
+924.8000000000000000	9606	Homo sapiens	AT-9283	CHEMBL495727	Tyrosine-protein kinase ABL inhibitor	2	
+1494.3800000000000000	9606	Homo sapiens	ATAGABALIN	CHEMBL593430	Voltage-gated calcium channel modulator	2	
+943.5000000000000000	9606	Homo sapiens	ATRELEUTON	CHEMBL59356	Arachidonate 5-lipoxygenase inhibitor	2	
+998.6000000000000000	9606	Homo sapiens	AVE0847	CHEMBL3545295	Peroxisome proliferator-activated receptor delta agonist	1	
+895.6500000000000000	9606	Homo sapiens	AXOMADOL	CHEMBL3989680	Kappa opioid receptor agonist	2	
+924.8000000000000000	9606	Homo sapiens	AZD-0424	CHEMBL3545177	Tyrosine-protein kinase ABL inhibitor	1	
+1033.7000000000000000	9606	Homo sapiens	AZD-8330	CHEMBL3182621	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	1	
+2219.8000000000000000	2	Bacteria	AZITHROMYCIN	CHEMBL529	Bacterial 70S ribosome inhibitor	4	1991
+924.8000000000000000	9606	Homo sapiens	AZM-475271	CHEMBL3545150	Tyrosine-protein kinase ABL inhibitor	2	
+962.7500000000000000	2	Bacteria	AZTREONAM	CHEMBL158	Bacterial penicillin-binding protein inhibitor	4	1986
+962.7500000000000000	2	Bacteria	BACAMPICILLIN HYDROCHLORIDE	CHEMBL1200965	Bacterial penicillin-binding protein inhibitor	4	1980
+924.8000000000000000	9606	Homo sapiens	BAFETINIB	CHEMBL206834	Tyrosine-protein kinase ABL inhibitor	2	
+1033.7000000000000000	9606	Homo sapiens	BALAMAPIMOD	CHEMBL2104954	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	1	
+943.5000000000000000	9606	Homo sapiens	BALSALAZIDE DISODIUM	CHEMBL1200760	Arachidonate 5-lipoxygenase inhibitor	4	2000
+1146.4083333333333333	9606	Homo sapiens	BELINOSTAT	CHEMBL408513	Histone deacetylase inhibitor	4	2014
+1494.3800000000000000	9606	Homo sapiens	BEPRIDIL HYDROCHLORIDE	CHEMBL1200382	Voltage-gated calcium channel blocker	4	1990
+939.2000000000000000	9606	Homo sapiens	BETAZOLE HYDROCHLORIDE	CHEMBL1200949	Histamine H2 receptor agonist	4	1982
+837.2000000000000000	9606	Homo sapiens	BHQ-880	CHEMBL2109381	Dickkopf-related protein 1 inhibitor	2	
+932.0000000000000000	11676	Human immunodeficiency virus 1	BICTEGRAVIR	CHEMBL3989866	Human immunodeficiency virus type 1 integrase inhibitor	4	2018
+1033.7000000000000000	9606	Homo sapiens	BINIMETINIB	CHEMBL3187723	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	3	
+958.5500000000000000	9606	Homo sapiens	BIVALIRUDIN	CHEMBL2103749	Thrombin inhibitor	4	2000
+924.8000000000000000	9606	Homo sapiens	BOSUTINIB	CHEMBL288441	Tyrosine-protein kinase ABL inhibitor	4	2010
+1132.2400000000000000	9606	Homo sapiens	BREMELANOTIDE	CHEMBL2070241	Melanocortin receptor 1 agonist	3	
+1096.7600000000000000	9606	Homo sapiens	BREMELANOTIDE	CHEMBL2070241	Melanocortin receptor 3 agonist	3	
+895.6500000000000000	9606	Homo sapiens	BUPRENORPHINE	CHEMBL511142	Kappa opioid receptor agonist	4	1981
+895.6500000000000000	9606	Homo sapiens	BUPRENORPHINE HYDROCHLORIDE	CHEMBL2368861	Kappa opioid receptor agonist	4	1981
+851.6000000000000000	9606	Homo sapiens	BUTAMBEN	CHEMBL127516	Transient receptor potential cation channel subfamily A member 1 inhibitor	4	
+851.6000000000000000	9606	Homo sapiens	BUTAMBEN PICRATE	CHEMBL3142541	Transient receptor potential cation channel subfamily A member 1 inhibitor	4	
+895.6500000000000000	9606	Homo sapiens	BUTORPHANOL TARTRATE	CHEMBL299400	Kappa opioid receptor partial agonist	4	1978
+1066.9727272727272727	1773	Mycobacterium tuberculosis	CAPREOMYCIN SULFATE	CHEMBL2218913	70S ribosome inhibitor	4	1971
+962.7500000000000000	2	Bacteria	CARBENICILLIN DISODIUM	CHEMBL606260	Bacterial penicillin-binding protein inhibitor	4	1982
+962.7500000000000000	2	Bacteria	CARBENICILLIN INDANYL SODIUM	CHEMBL1200991	Bacterial penicillin-binding protein inhibitor	4	1972
+886.5000000000000000	9606	Homo sapiens	CARPROFEN	CHEMBL1316	Cyclooxygenase-2 inhibitor	4	1987
+851.6000000000000000	9606	Homo sapiens	CB-189625	CHEMBL3707378	Transient receptor potential cation channel subfamily A member 1 antagonist	0	
+962.7500000000000000	2	Bacteria	CEFACLOR	CHEMBL1201018	Bacterial penicillin-binding protein inhibitor	4	1979
+962.7500000000000000	2	Bacteria	CEFADROXIL	CHEMBL1644	Bacterial penicillin-binding protein inhibitor	4	1978
+962.7500000000000000	2	Bacteria	CEFAMANDOLE	CHEMBL1146	Bacterial penicillin-binding protein inhibitor	4	
+962.7500000000000000	2	Bacteria	CEFAMANDOLE NAFATE	CHEMBL1618	Bacterial penicillin-binding protein inhibitor	4	1978
+962.7500000000000000	2	Bacteria	CEFAZOLIN SODIUM	CHEMBL1200523	Bacterial penicillin-binding protein inhibitor	4	1973
+962.7500000000000000	2	Bacteria	CEFDINIR	CHEMBL927	Bacterial penicillin-binding protein inhibitor	4	1997
+962.7500000000000000	2	Bacteria	CEFDITOREN PIVOXIL	CHEMBL454446	Bacterial penicillin-binding protein inhibitor	4	2001
+962.7500000000000000	2	Bacteria	CEFEPIME HYDROCHLORIDE	CHEMBL1200962	Bacterial penicillin-binding protein inhibitor	4	1996
+962.7500000000000000	2	Bacteria	CEFIXIME	CHEMBL1541	Bacterial penicillin-binding protein inhibitor	4	1989
+962.7500000000000000	2	Bacteria	CEFMENOXIME HYDROCHLORIDE	CHEMBL3183193	Bacterial penicillin-binding protein inhibitor	4	1987
+962.7500000000000000	2	Bacteria	CEFMETAZOLE SODIUM	CHEMBL1201118	Bacterial penicillin-binding protein inhibitor	4	1989
+962.7500000000000000	2	Bacteria	CEFODIZIME	CHEMBL2303613	Bacterial penicillin-binding protein inhibitor	4	
+962.7500000000000000	2	Bacteria	CEFONICID SODIUM	CHEMBL1201005	Bacterial penicillin-binding protein inhibitor	4	1984
+962.7500000000000000	2	Bacteria	CEFOPERAZONE SODIUM	CHEMBL1200482	Bacterial penicillin-binding protein inhibitor	4	1982
+962.7500000000000000	2	Bacteria	CEFORANIDE	CHEMBL1201046	Bacterial penicillin-binding protein inhibitor	4	1984
+962.7500000000000000	2	Bacteria	CEFOTAXIME SODIUM	CHEMBL1010	Bacterial penicillin-binding protein inhibitor	4	1981
+962.7500000000000000	2	Bacteria	CEFOTETAN DISODIUM	CHEMBL1201098	Bacterial penicillin-binding protein inhibitor	4	1985
+962.7500000000000000	2	Bacteria	CEFOTIAM HYDROCHLORIDE	CHEMBL1200589	Bacterial penicillin-binding protein inhibitor	4	1988
+962.7500000000000000	2	Bacteria	CEFOXITIN SODIUM	CHEMBL1200530	Bacterial penicillin-binding protein inhibitor	4	1978
+962.7500000000000000	2	Bacteria	CEFPIRAMIDE SODIUM	CHEMBL1200672	Bacterial penicillin-binding protein inhibitor	4	1989
+962.7500000000000000	2	Bacteria	CEFPIROME	CHEMBL65794	Bacterial penicillin-binding protein inhibitor	4	
+962.7500000000000000	2	Bacteria	CEFPODOXIME PROXETIL	CHEMBL1201016	Bacterial penicillin-binding protein inhibitor	4	1992
+962.7500000000000000	2	Bacteria	CEFPROZIL	CHEMBL3184906	Bacterial penicillin-binding protein inhibitor	4	1991
+962.7500000000000000	2	Bacteria	CEFSULODIN	CHEMBL3351077	Bacterial penicillin-binding protein inhibitor	4	
+962.7500000000000000	2	Bacteria	CEFTAROLINE FOSAMIL ACETATE	CHEMBL3544973	Bacterial penicillin-binding protein inhibitor	4	2010
+962.7500000000000000	2	Bacteria	CEFTAZIDIME	CHEMBL44354	Bacterial penicillin-binding protein inhibitor	4	1985
+962.7500000000000000	2	Bacteria	CEFTAZIDIME SODIUM	CHEMBL1200768	Bacterial penicillin-binding protein inhibitor	4	1989
+962.7500000000000000	2	Bacteria	CEFTIBUTEN	CHEMBL1605	Bacterial penicillin-binding protein inhibitor	4	1995
+962.7500000000000000	2	Bacteria	CEFTIZOXIME SODIUM	CHEMBL1201019	Bacterial penicillin-binding protein inhibitor	4	1983
+962.7500000000000000	2	Bacteria	CEFTOLOZANE SULFATE	CHEMBL1213250	Bacterial penicillin-binding protein inhibitor	4	2014
+962.7500000000000000	2	Bacteria	CEFTRIAXONE SODIUM	CHEMBL3183968	Bacterial penicillin-binding protein inhibitor	4	1984
+962.7500000000000000	2	Bacteria	CEFUROXIME AXETIL	CHEMBL1095930	Bacterial penicillin-binding protein inhibitor	4	1987
+962.7500000000000000	2	Bacteria	CEFUROXIME SODIUM	CHEMBL2146124	Bacterial penicillin-binding protein inhibitor	4	1983
+886.5000000000000000	9606	Homo sapiens	CELECOXIB	CHEMBL118	Cyclooxygenase-2 inhibitor	4	1998
+1384.4000000000000000	9606	Homo sapiens	CEP-1347	CHEMBL290352	Mitogen-activated protein kinase kinase kinase 11 inhibitor	3	
+962.7500000000000000	2	Bacteria	CEPHALEXIN	CHEMBL1200544	Bacterial penicillin-binding protein inhibitor	4	1971
+962.7500000000000000	2	Bacteria	CEPHALEXIN HYDROCHLORIDE	CHEMBL1200366	Bacterial penicillin-binding protein inhibitor	4	1987
+962.7500000000000000	2	Bacteria	CEPHALOGLYCIN	CHEMBL1200971	Bacterial penicillin-binding protein inhibitor	4	1970
+962.7500000000000000	2	Bacteria	CEPHALOTHIN SODIUM	CHEMBL1632	Bacterial penicillin-binding protein inhibitor	4	1974
+962.7500000000000000	2	Bacteria	CEPHAPIRIN SODIUM	CHEMBL1201043	Bacterial penicillin-binding protein inhibitor	4	1974
+962.7500000000000000	2	Bacteria	CEPHRADINE	CHEMBL1604	Bacterial penicillin-binding protein inhibitor	4	1974
+998.6000000000000000	9606	Homo sapiens	CER-002	CHEMBL3544958	Peroxisome proliferator-activated receptor delta agonist	1	
+2219.8000000000000000	2	Bacteria	CHLORAMPHENICOL	CHEMBL130	Bacterial 70S ribosome inhibitor	4	1950
+2219.8000000000000000	2	Bacteria	CHLORAMPHENICOL PALMITATE	CHEMBL1506	Bacterial 70S ribosome inhibitor	4	1982
+2219.8000000000000000	2	Bacteria	CHLORAMPHENICOL SODIUM SUCCINATE	CHEMBL1200729	Bacterial 70S ribosome inhibitor	4	1959
+2219.8000000000000000	2	Bacteria	CHLORTETRACYCLINE HYDROCHLORIDE	CHEMBL2146063	Bacterial 70S ribosome inhibitor	4	1950
+1033.7000000000000000	9606	Homo sapiens	CI-1040	CHEMBL105442	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	2	
+1878.0666666666666667	9606	Homo sapiens	CILENGITIDE	CHEMBL429876	Integrin alpha-V/beta-3 antagonist	3	
+939.2000000000000000	9606	Homo sapiens	CIMETIDINE	CHEMBL30	Histamine H2 receptor antagonist	4	1977
+939.2000000000000000	9606	Homo sapiens	CIMETIDINE HYDROCHLORIDE	CHEMBL1201051	Histamine H2 receptor antagonist	4	1977
+2219.8000000000000000	2	Bacteria	CLARITHROMYCIN	CHEMBL1741	Bacterial 70S ribosome inhibitor	4	1991
+2219.8000000000000000	2	Bacteria	CLINDAMYCIN HYDROCHLORIDE	CHEMBL1200588	Bacterial 70S ribosome inhibitor	4	1970
+2219.8000000000000000	2	Bacteria	CLINDAMYCIN PALMITATE HYDROCHLORIDE	CHEMBL1200632	Bacterial 70S ribosome inhibitor	4	1986
+2219.8000000000000000	2	Bacteria	CLINDAMYCIN PHOSPHATE	CHEMBL3184512	Bacterial 70S ribosome inhibitor	4	1972
+1033.7000000000000000	9606	Homo sapiens	COBIMETINIB	CHEMBL2146883	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	4	2015
+1033.7000000000000000	9606	Homo sapiens	COBIMETINIB FUMARATE	CHEMBL2364607	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	4	2015
+1146.4083333333333333	9606	Homo sapiens	CUDC-101	CHEMBL598797	Histone deacetylase inhibitor	1	
+962.7500000000000000	2	Bacteria	CYCLACILLIN	CHEMBL1200356	Bacterial penicillin-binding protein inhibitor	4	1979
+958.5500000000000000	9606	Homo sapiens	DABIGATRAN	CHEMBL48361	Thrombin inhibitor	3	
+958.5500000000000000	9606	Homo sapiens	DABIGATRAN ETEXILATE MESYLATE	CHEMBL1615369	Thrombin inhibitor	4	2010
+853.5000000000000000	9606	Homo sapiens	DALFAMPRIDINE	CHEMBL284348	Voltage-gated potassium channel blocker	4	2010
+2219.8000000000000000	2	Bacteria	DALFOPRISTIN	CHEMBL1200937	Bacterial 70S ribosome inhibitor	4	1999
+1769.8333333333333333	9606	Homo sapiens	DARATUMUMAB	CHEMBL1743007	Lymphocyte differentiation antigen CD38 inhibitor	4	2015
+958.4000000000000000	9606	Homo sapiens	DASATINIB	CHEMBL1421	SRC inhibitor	4	2006
+924.8000000000000000	9606	Homo sapiens	DASATINIB	CHEMBL1421	Tyrosine-protein kinase ABL inhibitor	4	2006
+998.6000000000000000	9606	Homo sapiens	DB959	CHEMBL3545176	Peroxisome proliferator-activated receptor delta agonist	1	
+867.7500000000000000	9606	Homo sapiens	DE-104	CHEMBL3545153	Rho-associated protein kinase inhibitor	2	
+863.7500000000000000	9606	Homo sapiens	DECOGLURANT	CHEMBL3301593	Metabotropic glutamate receptor 3 modulator	2	
+949.8000000000000000	11676	Human immunodeficiency virus 1	DELAVIRDINE MESYLATE	CHEMBL929	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	1997
+2219.8000000000000000	2	Bacteria	DEMECLOCYCLINE HYDROCHLORIDE	CHEMBL1200474	Bacterial 70S ribosome inhibitor	4	1960
+958.5500000000000000	9606	Homo sapiens	DESIRUDIN	CHEMBL1201662	Thrombin inhibitor	4	2003
+895.6500000000000000	9606	Homo sapiens	DEZOCINE	CHEMBL1685	Kappa opioid receptor antagonist	4	1989
+949.8000000000000000	11676	Human immunodeficiency virus 1	DIDANOSINE	CHEMBL1460	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	1991
+1098.4250000000000000	9606	Homo sapiens	DIHYDROERGOTAMINE MESYLATE	CHEMBL1200517	Serotonin 1d (5-HT1d) receptor agonist	4	1946
+2219.8000000000000000	2	Bacteria	DIHYDROSTREPTOMYCIN SULFATE	CHEMBL3188576	Bacterial 70S ribosome inhibitor	4	
+884.4000000000000000	9606	Homo sapiens	DINACICLIB	CHEMBL2103840	Cyclin-dependent kinase 1 inhibitor	3	
+886.9000000000000000	9606	Homo sapiens	DIPIVEFRIN HYDROCHLORIDE	CHEMBL1200833	Adrenergic receptor agonist	4	1980
+2219.8000000000000000	2	Bacteria	DIRITHROMYCIN	CHEMBL3039471	Bacterial 70S ribosome inhibitor	4	1995
+889.7333333333333333	9606	Homo sapiens	DISULFIRAM	CHEMBL964	Aldehyde dehydrogenase inhibitor	4	1951
+932.0000000000000000	11676	Human immunodeficiency virus 1	DOLUTEGRAVIR SODIUM	CHEMBL1213165	Human immunodeficiency virus type 1 integrase inhibitor	4	2013
+1098.4250000000000000	9606	Homo sapiens	DONITRIPTAN	CHEMBL1742428	Serotonin 1d (5-HT1d) receptor agonist	2	
+962.7500000000000000	2	Bacteria	DORIPENEM	CHEMBL491571	Bacterial penicillin-binding protein inhibitor	4	2007
+856.0000000000000000	9606	Homo sapiens	DOXYCYCLINE	CHEMBL1200699	Matrix metalloproteinase 13 inhibitor	4	1967
+1101.7500000000000000	9606	Homo sapiens	DOXYCYCLINE	CHEMBL1200699	Matrix metalloproteinase-1 inhibitor	4	1967
+856.0000000000000000	9606	Homo sapiens	DOXYCYCLINE CALCIUM	CHEMBL2364574	Matrix metalloproteinase 13 inhibitor	4	1974
+1101.7500000000000000	9606	Homo sapiens	DOXYCYCLINE CALCIUM	CHEMBL2364574	Matrix metalloproteinase-1 inhibitor	4	1974
+856.0000000000000000	9606	Homo sapiens	DOXYCYCLINE HYCLATE	CHEMBL3989740	Matrix metalloproteinase 13 inhibitor	4	1967
+1101.7500000000000000	9606	Homo sapiens	DOXYCYCLINE HYCLATE	CHEMBL3989740	Matrix metalloproteinase-1 inhibitor	4	1967
+886.9000000000000000	9606	Homo sapiens	DROXIDOPA	CHEMBL2103827	Adrenergic receptor agonist	4	2014
+939.2000000000000000	9606	Homo sapiens	EBROTIDINE	CHEMBL1742471	Histamine H2 receptor antagonist	4	
+949.8000000000000000	11676	Human immunodeficiency virus 1	EFAVIRENZ	CHEMBL223228	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	1998
+1098.4250000000000000	9606	Homo sapiens	ELETRIPTAN HYDROBROMIDE	CHEMBL1201003	Serotonin 1d (5-HT1d) receptor agonist	4	2002
+914.1000000000000000	9606	Homo sapiens	ELPETRIGINE	CHEMBL29919	Sodium channel protein type III alpha subunit blocker	0	
+932.0000000000000000	11676	Human immunodeficiency virus 1	ELVITEGRAVIR	CHEMBL204656	Human immunodeficiency virus type 1 integrase inhibitor	4	2012
+1098.4250000000000000	9606	Homo sapiens	ELZASONAN HYDROCHLORIDE	CHEMBL3989805	Serotonin 1d (5-HT1d) receptor antagonist	2	
+949.8000000000000000	11676	Human immunodeficiency virus 1	EMTRICITABINE	CHEMBL885	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	2003
+958.4000000000000000	9606	Homo sapiens	ENMD-981693	CHEMBL52885	SRC inhibitor	2	
+1146.4083333333333333	9606	Homo sapiens	ENTINOSTAT	CHEMBL27759	Histone deacetylase inhibitor	3	
+886.9000000000000000	9606	Homo sapiens	EPINEPHRINE	CHEMBL679	Adrenergic receptor agonist	4	1965
+886.9000000000000000	9606	Homo sapiens	EPINEPHRINE BITARTRATE	CHEMBL1256958	Adrenergic receptor agonist	4	1965
+1048.6000000000000000	9606	Homo sapiens	ERGOLOID MESYLATES	CHEMBL2311030	Adrenergic receptor alpha antagonist	4	1953
+1048.6000000000000000	9606	Homo sapiens	ERGOTAMINE TARTRATE	CHEMBL2448612	Adrenergic receptor alpha agonist	4	1948
+1098.4250000000000000	9606	Homo sapiens	ERGOTAMINE TARTRATE	CHEMBL2448612	Serotonin 1d (5-HT1d) receptor agonist	4	1948
+962.7500000000000000	2	Bacteria	ERTAPENEM SODIUM	CHEMBL1232	Bacterial penicillin-binding protein inhibitor	4	2001
+2219.8000000000000000	2	Bacteria	ERYTHROMYCIN	CHEMBL532	Bacterial 70S ribosome inhibitor	4	1964
+2219.8000000000000000	2	Bacteria	ERYTHROMYCIN ESTOLATE	CHEMBL2218877	Bacterial 70S ribosome inhibitor	4	1967
+2219.8000000000000000	2	Bacteria	ERYTHROMYCIN ETHYLSUCCINATE	CHEMBL1200688	Bacterial 70S ribosome inhibitor	4	1965
+2219.8000000000000000	2	Bacteria	ERYTHROMYCIN GLUCEPTATE	CHEMBL3545060	Bacterial 70S ribosome inhibitor	4	1982
+2219.8000000000000000	2	Bacteria	ERYTHROMYCIN LACTOBIONATE	CHEMBL1200506	Bacterial 70S ribosome inhibitor	4	1964
+2219.8000000000000000	2	Bacteria	ERYTHROMYCIN STEARATE	CHEMBL1200510	Bacterial 70S ribosome inhibitor	4	1964
+1878.0666666666666667	9606	Homo sapiens	ETARACIZUMAB	CHEMBL1743014	Integrin alpha-V/beta-3 antagonist	2	
+1239.4000000000000000	1773	Mycobacterium tuberculosis	ETHIONAMIDE	CHEMBL1441	Enoyl-[acyl-carrier-protein] reductase inhibitor	4	1965
+886.5000000000000000	9606	Homo sapiens	ETODOLAC	CHEMBL622	Cyclooxygenase-2 inhibitor	4	1991
+886.5000000000000000	9606	Homo sapiens	ETORICOXIB	CHEMBL416146	Cyclooxygenase-2 inhibitor	4	
+949.8000000000000000	11676	Human immunodeficiency virus 1	ETRAVIRINE	CHEMBL308954	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	2008
+1398.8000000000000000	9606	Homo sapiens	EZETIMIBE	CHEMBL1138	Niemann-Pick C1-like protein 1 inhibitor	4	2002
+882.4000000000000000	9606	Homo sapiens	FAMITINIB	CHEMBL3545026	Vascular endothelial growth factor receptor 3 inhibitor	3	
+939.2000000000000000	9606	Homo sapiens	FAMOTIDINE	CHEMBL902	Histamine H2 receptor antagonist	4	1986
+1098.4250000000000000	9606	Homo sapiens	FENFLURAMINE HYDROCHLORIDE	CHEMBL2106217	Serotonin 1d (5-HT1d) receptor agonist	4	
+1084.5000000000000000	1496	Clostridium difficile	FIDAXOMICIN	CHEMBL1255800	DNA-directed RNA polymerase inhibitor	4	2011
+1146.4083333333333333	9606	Homo sapiens	FIMEPINOSTAT	CHEMBL3622533	Histone deacetylase inhibitor	2	
+924.8000000000000000	9606	Homo sapiens	FLUMATINIB	CHEMBL3545413	Tyrosine-protein kinase ABL inhibitor	3	
+1130.8000000000000000	9606	Homo sapiens	FOMEPIZOLE	CHEMBL1308	Alcohol dehydrogenase class I inhibitor	4	1997
+879.7000000000000000	83333	Escherichia coli K-12	FOSFOMYCIN TROMETHAMINE	CHEMBL1200331	UDP-N-acetylglucosamine 1-carboxyvinyltransferase inhibitor	4	1996
+1098.4250000000000000	9606	Homo sapiens	FROVATRIPTAN SUCCINATE	CHEMBL2138684	Serotonin 1d (5-HT1d) receptor agonist	4	2001
+1494.3800000000000000	9606	Homo sapiens	GABAPENTIN	CHEMBL940	Voltage-gated calcium channel modulator	4	1993
+1494.3800000000000000	9606	Homo sapiens	GABAPENTIN ENACARBIL	CHEMBL1628502	Voltage-gated calcium channel modulator	4	2011
+2219.8000000000000000	2	Bacteria	GENTAMICIN SULFATE	CHEMBL3039594	Bacterial 70S ribosome inhibitor	4	1970
+1296.7000000000000000	9606	Homo sapiens	GRC-15300	CHEMBL3707319	Transient receptor potential cation channel subfamily V member 3 antagonist	2	
+851.6000000000000000	9606	Homo sapiens	GRC-17536	CHEMBL3707318	Transient receptor potential cation channel subfamily A member 1 antagonist	2	
+1098.4250000000000000	9606	Homo sapiens	GSK163090	CHEMBL1631540	Serotonin 1d (5-HT1d) receptor antagonist	2	
+853.5000000000000000	9606	Homo sapiens	GUANIDINE HYDROCHLORIDE	CHEMBL1200728	Voltage-gated potassium channel blocker	4	1939
+1769.8333333333333333	9606	Homo sapiens	HUMAX-CD38	CHEMBL2109269	Lymphocyte differentiation antigen CD38 binding agent	2	
+1769.8333333333333333	9606	Homo sapiens	HUMAX-IL15	CHEMBL2109468	Lymphocyte differentiation antigen CD38 inhibitor	2	
+886.9000000000000000	9606	Homo sapiens	HYDROXYAMPHETAMINE HYDROBROMIDE	CHEMBL1200705	Adrenergic receptor agonist	4	1969
+958.4000000000000000	9606	Homo sapiens	ILORASERTIB	CHEMBL1980297	SRC inhibitor	2	
+1494.3800000000000000	9606	Homo sapiens	IMAGABALIN	CHEMBL2103836	Voltage-gated calcium channel modulator	3	
+924.8000000000000000	9606	Homo sapiens	IMATINIB MESYLATE	CHEMBL1642	Tyrosine-protein kinase ABL inhibitor	4	2001
+882.4000000000000000	9606	Homo sapiens	IMC-3C5	CHEMBL2109602	Vascular endothelial growth factor receptor 3 inhibitor	1	
+962.7500000000000000	2	Bacteria	IMIPENEM	CHEMBL43708	Bacterial penicillin-binding protein inhibitor	4	1985
+1878.0666666666666667	9606	Homo sapiens	INTETUMUMAB	CHEMBL1743032	Integrin alpha-V/beta-3 antagonist	2	
+847.5000000000000000	9606	Homo sapiens	IRX4310	CHEMBL3545173	Retinoic acid receptor antagonist	1	
+1769.8333333333333333	9606	Homo sapiens	ISATUXIMAB	CHEMBL3545131	Lymphocyte differentiation antigen CD38 inhibitor	3	
+1239.4000000000000000	1773	Mycobacterium tuberculosis	ISONIAZID	CHEMBL64	Enoyl-[acyl-carrier-protein] reductase inhibitor	4	1952
+847.5000000000000000	9606	Homo sapiens	ISOTRETINOIN	CHEMBL547	Retinoic acid receptor agonist	4	1982
+882.4000000000000000	9606	Homo sapiens	JNJ-26483327	CHEMBL3545133	Vascular endothelial growth factor receptor 3 inhibitor	1	
+2219.8000000000000000	2	Bacteria	KANAMYCIN SULFATE	CHEMBL1446	Bacterial 70S ribosome inhibitor	4	1973
+998.6000000000000000	9606	Homo sapiens	KD3010	CHEMBL3545114	Peroxisome proliferator-activated receptor delta agonist	1	
+924.8000000000000000	9606	Homo sapiens	KW-2449	CHEMBL1908397	Tyrosine-protein kinase ABL inhibitor	1	
+886.9000000000000000	9606	Homo sapiens	LABETALOL HYDROCHLORIDE	CHEMBL1200323	Adrenergic receptor antagonist	4	1984
+949.8000000000000000	11676	Human immunodeficiency virus 1	LAMIVUDINE	CHEMBL141	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	1995
+931.8000000000000000	9606	Homo sapiens	LARAZOTIDE ACETATE	CHEMBL2103815	Neuronal acetylcholine receptor; alpha3/beta4 partial agonist	2	
+1273.9250000000000000	9606	Homo sapiens	LAROPIPRANT	CHEMBL426559	Prostanoid DP receptor antagonist	3	
+958.5500000000000000	9606	Homo sapiens	LEPIRUDIN	CHEMBL1201666	Thrombin inhibitor	4	1998
+895.6500000000000000	9606	Homo sapiens	LEVALLORPHAN TARTRATE	CHEMBL2062276	Kappa opioid receptor partial agonist	4	1982
+2219.8000000000000000	2	Bacteria	LINEZOLID	CHEMBL126	Bacterial 70S ribosome inhibitor	4	2000
+914.8500000000000000	9606	Homo sapiens	LITHIUM CARBONATE	CHEMBL1200826	Inositol-1(or 4)-monophosphatase 1 inhibitor	4	1970
+914.8500000000000000	9606	Homo sapiens	LITHIUM CITRATE	CHEMBL2103738	Inositol-1(or 4)-monophosphatase 1 inhibitor	4	1980
+962.7500000000000000	2	Bacteria	LORACARBEF	CHEMBL1200610	Bacterial penicillin-binding protein inhibitor	4	1991
+1019.4000000000000000	9606	Homo sapiens	LOSMAPIMOD	CHEMBL1088752	MAP kinase p38 beta inhibitor	3	
+886.5000000000000000	9606	Homo sapiens	LUMIRACOXIB	CHEMBL404108	Cyclooxygenase-2 inhibitor	4	
+863.7500000000000000	9606	Homo sapiens	LY2969822	CHEMBL3545270	Metabotropic glutamate receptor 3 agonist	1	
+863.7500000000000000	9606	Homo sapiens	LY404039	CHEMBL375611	Metabotropic glutamate receptor 3 agonist	1	
+1101.7500000000000000	9606	Homo sapiens	MARIMASTAT	CHEMBL279785	Matrix metalloproteinase-1 inhibitor	3	
+896.6000000000000000	9606	Homo sapiens	ME-344	CHEMBL3545320	Mitochondrial complex I (NADH dehydrogenase) inhibitor	1	
+931.8000000000000000	9606	Homo sapiens	MECAMYLAMINE HYDROCHLORIDE	CHEMBL1237082	Neuronal acetylcholine receptor; alpha3/beta4 negative allosteric modulator	4	1956
+2219.8000000000000000	2	Bacteria	MECLOCYCLINE SULFOSALICYLATE	CHEMBL261772	Bacterial 70S ribosome inhibitor	4	1982
+943.5000000000000000	9606	Homo sapiens	MECLOFENAMATE SODIUM	CHEMBL1562610	Arachidonate 5-lipoxygenase inhibitor	4	1980
+886.6000000000000000	9606	Homo sapiens	MEDI-8968	CHEMBL2109607	Interleukin-1 receptor inhibitor	1	
+886.5000000000000000	9606	Homo sapiens	MELOXICAM	CHEMBL599	Cyclooxygenase-2 inhibitor	4	2000
+851.6000000000000000	9606	Homo sapiens	MENTHOL	CHEMBL256087	Transient receptor potential cation channel subfamily A member 1 opener	4	2008
+886.9000000000000000	9606	Homo sapiens	MEPHENTERMINE SULFATE	CHEMBL3184799	Adrenergic receptor agonist	4	1951
+962.7500000000000000	2	Bacteria	MEROPENEM	CHEMBL127	Bacterial penicillin-binding protein inhibitor	4	1996
+943.5000000000000000	9606	Homo sapiens	MESALAMINE	CHEMBL704	Arachidonate 5-lipoxygenase inhibitor	4	1987
+896.6000000000000000	9606	Homo sapiens	METFORMIN HYDROCHLORIDE	CHEMBL1703	Mitochondrial complex I (NADH dehydrogenase) inhibitor	4	1995
+2219.8000000000000000	2	Bacteria	METHACYCLINE HYDROCHLORIDE	CHEMBL2146123	Bacterial 70S ribosome inhibitor	4	1982
+939.2000000000000000	9606	Homo sapiens	METHANTHELINE BROMIDE	CHEMBL1200988	Histamine H2 receptor antagonist	4	1951
+1045.5000000000000000	9606	Homo sapiens	METRELEPTIN	CHEMBL2107857	Leptin receptor agonist	4	2014
+962.7500000000000000	2	Bacteria	MEZLOCILLIN SODIUM	CHEMBL1697708	Bacterial penicillin-binding protein inhibitor	4	1981
+884.4000000000000000	9606	Homo sapiens	MILCICLIB	CHEMBL564829	Cyclin-dependent kinase 1 inhibitor	2	
+2219.8000000000000000	2	Bacteria	MINOCYCLINE HYDROCHLORIDE	CHEMBL1200881	Bacterial 70S ribosome inhibitor	4	1971
+1128.9500000000000000	9606	Homo sapiens	MK-8353	CHEMBL3545001	MAP kinase ERK1 inhibitor	1	
+1132.2400000000000000	9606	Homo sapiens	MODIMELANOTIDE	CHEMBL3545104	Melanocortin receptor 1 agonist	2	
+1096.7600000000000000	9606	Homo sapiens	MODIMELANOTIDE	CHEMBL3545104	Melanocortin receptor 3 agonist	2	
+962.7500000000000000	2	Bacteria	MOXALACTAM DISODIUM	CHEMBL1200357	Bacterial penicillin-binding protein inhibitor	4	1982
+1048.6000000000000000	9606	Homo sapiens	MOXISYLYTE	CHEMBL159226	Adrenergic receptor alpha antagonist	4	
+886.5000000000000000	9606	Homo sapiens	NABUMETONE	CHEMBL1070	Cyclooxygenase-2 inhibitor	4	1991
+895.6500000000000000	9606	Homo sapiens	NALFURAFINE HYDROCHLORIDE	CHEMBL490665	Kappa opioid receptor agonist	3	
+1048.6000000000000000	9606	Homo sapiens	NAPHAZOLINE HYDROCHLORIDE	CHEMBL1706	Adrenergic receptor alpha agonist	4	1971
+1098.4250000000000000	9606	Homo sapiens	NARATRIPTAN HYDROCHLORIDE	CHEMBL1200601	Serotonin 1d (5-HT1d) receptor agonist	4	1998
+2219.8000000000000000	2	Bacteria	NEOMYCIN SULFATE	CHEMBL3989769	Bacterial 70S ribosome inhibitor	4	1957
+853.5000000000000000	9606	Homo sapiens	NERISPIRDINE	CHEMBL2107762	Voltage-gated potassium channel blocker	2	
+1273.6750000000000000	9606	Homo sapiens	NESIRITIDE	CHEMBL1201668	Atrial natriuretic peptide receptor A agonist	4	2001
+867.7500000000000000	9606	Homo sapiens	NETARSUDIL DIMESYLATE	CHEMBL3545126	Rho-associated protein kinase inhibitor	4	2017
+2219.8000000000000000	2	Bacteria	NETILMICIN SULFATE	CHEMBL3989829	Bacterial 70S ribosome inhibitor	4	1983
+949.8000000000000000	11676	Human immunodeficiency virus 1	NEVIRAPINE	CHEMBL57	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	1996
+924.8000000000000000	9606	Homo sapiens	NILOTINIB HYDROCHLORIDE MONOHYDRATE	CHEMBL1201740	Tyrosine-protein kinase ABL inhibitor	4	2007
+1923.9000000000000000	9606	Homo sapiens	NIVOCASAN	CHEMBL2105721	Caspase-9 inhibitor	2	
+939.2000000000000000	9606	Homo sapiens	NIZATIDINE	CHEMBL3183075	Histamine H2 receptor antagonist	4	1988
+886.9000000000000000	9606	Homo sapiens	NOREPINEPHRINE BITARTRATE	CHEMBL1356607	Adrenergic receptor agonist	4	1950
+846.1250000000000000	9606	Homo sapiens	NRX195183	CHEMBL107430	Retinoic acid receptor alpha agonist	2	
+896.6000000000000000	9606	Homo sapiens	NV-128	CHEMBL3545135	Mitochondrial complex I (NADH dehydrogenase) inhibitor	1	
+943.5000000000000000	9606	Homo sapiens	OLSALAZINE SODIUM	CHEMBL1201013	Arachidonate 5-lipoxygenase inhibitor	4	1990
+1048.6000000000000000	9606	Homo sapiens	OXYMETAZOLINE HYDROCHLORIDE	CHEMBL1200791	Adrenergic receptor alpha agonist	4	1986
+2219.8000000000000000	2	Bacteria	OXYTETRACYCLINE	CHEMBL1517	Bacterial 70S ribosome inhibitor	4	1964
+2219.8000000000000000	2	Bacteria	OXYTETRACYCLINE CALCIUM	CHEMBL3989568	Bacterial 70S ribosome inhibitor	4	1982
+2219.8000000000000000	2	Bacteria	OXYTETRACYCLINE HYDROCHLORIDE	CHEMBL1607480	Bacterial 70S ribosome inhibitor	4	1964
+1146.4083333333333333	9606	Homo sapiens	PANOBINOSTAT LACTATE	CHEMBL3545368	Histone deacetylase inhibitor	4	2015
+886.3666666666666667	9606	Homo sapiens	PARATHYROID HORMONE	CHEMBL2108078	Parathyroid hormone receptor agonist	4	2015
+886.5000000000000000	9606	Homo sapiens	PARECOXIB	CHEMBL1206690	Cyclooxygenase-2 inhibitor	4	
+886.5000000000000000	9606	Homo sapiens	PARECOXIB SODIUM	CHEMBL296913	Cyclooxygenase-2 inhibitor	4	
+2219.8000000000000000	2	Bacteria	PAROMOMYCIN SULFATE	CHEMBL2206196	Bacterial 70S ribosome inhibitor	4	1969
+1033.7000000000000000	9606	Homo sapiens	PD-0325901	CHEMBL507361	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	2	
+1132.5000000000000000	9606	Homo sapiens	PEFICITINIB	CHEMBL3137308	Janus Kinase (JAK) inhibitor	3	
+962.7500000000000000	2	Bacteria	PENICILLIN G BENZATHINE	CHEMBL3989515	Bacterial penicillin-binding protein inhibitor	4	1952
+962.7500000000000000	2	Bacteria	PENICILLIN G POTASSIUM	CHEMBL1223	Bacterial penicillin-binding protein inhibitor	4	1947
+962.7500000000000000	2	Bacteria	PENICILLIN G SODIUM	CHEMBL1126	Bacterial penicillin-binding protein inhibitor	4	1988
+962.7500000000000000	2	Bacteria	PENICILLIN V	CHEMBL615	Bacterial penicillin-binding protein inhibitor	4	1958
+962.7500000000000000	2	Bacteria	PENICILLIN V POTASSIUM	CHEMBL1200852	Bacterial penicillin-binding protein inhibitor	4	1958
+931.8000000000000000	9606	Homo sapiens	PENTOLINIUM TARTRATE	CHEMBL1318287	Neuronal acetylcholine receptor; alpha3/beta4 antagonist	4	1982
+1048.6000000000000000	9606	Homo sapiens	PHENOXYBENZAMINE HYDROCHLORIDE	CHEMBL1200787	Adrenergic receptor alpha antagonist	4	1953
+1048.6000000000000000	9606	Homo sapiens	PHENTOLAMINE MESYLATE	CHEMBL1200873	Adrenergic receptor alpha antagonist	4	1952
+1033.7000000000000000	9606	Homo sapiens	PIMASERTIB	CHEMBL2107832	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	2	
+962.7500000000000000	2	Bacteria	PIPERACILLIN SODIUM	CHEMBL1200820	Bacterial penicillin-binding protein inhibitor	4	1981
+886.5000000000000000	9606	Homo sapiens	POLMACOXIB	CHEMBL166863	Cyclooxygenase-2 inhibitor	3	
+863.7500000000000000	9606	Homo sapiens	POMAGLUMETAD METHIONIL	CHEMBL2110730	Metabotropic glutamate receptor 3 agonist	3	
+1085.9666666666666667	9606	Homo sapiens	PONATINIB HYDROCHLORIDE	CHEMBL2105708	Breakpoint cluster region protein inhibitor	4	2012
+924.8000000000000000	9606	Homo sapiens	PONATINIB HYDROCHLORIDE	CHEMBL2105708	Tyrosine-protein kinase ABL inhibitor	4	2012
+1494.3800000000000000	9606	Homo sapiens	PREGABALIN	CHEMBL1059	Voltage-gated calcium channel modulator	4	2004
+859.7000000000000000	11676	Human immunodeficiency virus 1	PRO-542	CHEMBL2109442	Envelope glycoprotein gp160 inhibitor	2	
+1066.9727272727272727	1773	Mycobacterium tuberculosis	PYRAZINAMIDE	CHEMBL614	70S ribosome inhibitor	4	1971
+2219.8000000000000000	2	Bacteria	QUINUPRISTIN	CHEMBL1200649	Bacterial 70S ribosome inhibitor	4	1999
+932.0000000000000000	11676	Human immunodeficiency virus 1	RALTEGRAVIR POTASSIUM	CHEMBL518520	Human immunodeficiency virus type 1 integrase inhibitor	4	2007
+939.2000000000000000	9606	Homo sapiens	RANITIDINE BISMUTH CITRATE	CHEMBL2111286	Histamine H2 receptor antagonist	4	1996
+939.2000000000000000	9606	Homo sapiens	RANITIDINE HYDROCHLORIDE	CHEMBL2110372	Histamine H2 receptor antagonist	4	1983
+1048.6000000000000000	9606	Homo sapiens	RAUWOLFIA SERPENTINA	CHEMBL3559672	Adrenergic receptor alpha antagonist	4	1954
+1128.9500000000000000	9606	Homo sapiens	RAVOXERTINIB	CHEMBL3544964	MAP kinase ERK1 inhibitor	1	
+924.8000000000000000	9606	Homo sapiens	REBASTINIB	CHEMBL1738757	Tyrosine-protein kinase ABL inhibitor	2	
+1033.7000000000000000	9606	Homo sapiens	REFAMETINIB	CHEMBL1236682	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	2	
+1019.4000000000000000	9606	Homo sapiens	REGORAFENIB	CHEMBL1946170	MAP kinase p38 beta inhibitor	4	2012
+924.8000000000000000	9606	Homo sapiens	REGORAFENIB	CHEMBL1946170	Tyrosine-protein kinase ABL inhibitor	4	2012
+951.4000000000000000	1314	Streptococcus pyogenes	RETAPAMULIN	CHEMBL1658	70S ribosome inhibitor	4	2007
+884.4000000000000000	9606	Homo sapiens	RG-547	CHEMBL384304	Cyclin-dependent kinase 1 inhibitor	2	
+1033.7000000000000000	9606	Homo sapiens	RG-7304	CHEMBL3545081	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	1	
+884.4000000000000000	9606	Homo sapiens	RGB-286638	CHEMBL3545083	Cyclin-dependent kinase 1 inhibitor	1	
+949.8000000000000000	11676	Human immunodeficiency virus 1	RILPIVIRINE HYDROCHLORIDE	CHEMBL1628504	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	2011
+884.4000000000000000	9606	Homo sapiens	RIVICICLIB	CHEMBL3545283	Cyclin-dependent kinase 1 inhibitor	2	
+1098.4250000000000000	9606	Homo sapiens	RIZATRIPTAN BENZOATE	CHEMBL1201032	Serotonin 1d (5-HT1d) receptor agonist	4	1998
+1033.7000000000000000	9606	Homo sapiens	RO-4987655	CHEMBL1614766	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	1	
+886.5000000000000000	9606	Homo sapiens	ROFECOXIB	CHEMBL122	Cyclooxygenase-2 inhibitor	4	1999
+1146.4083333333333333	9606	Homo sapiens	ROMIDEPSIN	CHEMBL343448	Histone deacetylase inhibitor	4	2009
+1019.4000000000000000	9606	Homo sapiens	RWJ-67657	CHEMBL190333	MAP kinase p38 beta inhibitor	1	
+867.7500000000000000	9606	Homo sapiens	SAR-407899	CHEMBL3545341	Rho-associated protein kinase inhibitor	2	
+924.8000000000000000	9606	Homo sapiens	SARACATINIB	CHEMBL217092	Tyrosine-protein kinase ABL inhibitor	3	
+998.6000000000000000	9606	Homo sapiens	SELADELPAR	CHEMBL230158	Peroxisome proliferator-activated receptor delta agonist	2	
+884.4000000000000000	9606	Homo sapiens	SELICICLIB	CHEMBL14762	Cyclin-dependent kinase 1 inhibitor	2	
+1033.7000000000000000	9606	Homo sapiens	SELUMETINIB	CHEMBL1614701	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	3	
+857.5000000000000000	9606	Homo sapiens	SERELAXIN	CHEMBL2108358	Relaxin receptor 1 activator	3	
+851.0500000000000000	10338	Varicella-zoster virus (strain Dumas) (HHV-3) (Human herpesvirus 3)	SORIVUDINE	CHEMBL70046	DNA polymerase inhibitor	4	
+2219.8000000000000000	2	Bacteria	SPECTINOMYCIN HYDROCHLORIDE	CHEMBL3989571	Bacterial 70S ribosome inhibitor	4	1971
+949.8000000000000000	11676	Human immunodeficiency virus 1	STAVUDINE	CHEMBL991	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	1994
+2219.8000000000000000	2	Bacteria	STREPTOMYCIN SULFATE	CHEMBL3184791	Bacterial 70S ribosome inhibitor	4	1946
+943.5000000000000000	9606	Homo sapiens	SULFASALAZINE	CHEMBL421	Arachidonate 5-lipoxygenase inhibitor	4	1950
+1494.3800000000000000	9606	Homo sapiens	SULOCTIDIL	CHEMBL404849	Voltage-gated calcium channel blocker	4	1979
+1098.4250000000000000	9606	Homo sapiens	SUMATRIPTAN	CHEMBL128	Serotonin 1d (5-HT1d) receptor agonist	4	1992
+1098.4250000000000000	9606	Homo sapiens	SUMATRIPTAN SUCCINATE	CHEMBL1201150	Serotonin 1d (5-HT1d) receptor agonist	4	1992
+1146.4083333333333333	9606	Homo sapiens	TACEDINALINE	CHEMBL235191	Histone deacetylase inhibitor	3	
+1033.7000000000000000	9606	Homo sapiens	TAK-733	CHEMBL1615025	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	1	
+847.5000000000000000	9606	Homo sapiens	TAZAROTENE	CHEMBL1657	Retinoic acid receptor agonist	4	1997
+931.8000000000000000	9606	Homo sapiens	TC-6499	CHEMBL3545353	Neuronal acetylcholine receptor; alpha3/beta4 agonist	2	
+853.5000000000000000	9606	Homo sapiens	TEDISAMIL	CHEMBL2111110	Voltage-gated potassium channel blocker	0	
+2219.8000000000000000	2	Bacteria	TEDIZOLID PHOSPHATE	CHEMBL2105669	Bacterial 70S ribosome inhibitor	4	2014
+882.4000000000000000	9606	Homo sapiens	TELATINIB	CHEMBL2079588	Vascular endothelial growth factor receptor 3 inhibitor	2	
+2219.8000000000000000	2	Bacteria	TELITHROMYCIN	CHEMBL1136	Bacterial 70S ribosome inhibitor	4	2004
+949.8000000000000000	11676	Human immunodeficiency virus 1	TENOFOVIR ALAFENAMIDE	CHEMBL2107825	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	2015
+949.8000000000000000	11676	Human immunodeficiency virus 1	TENOFOVIR ALAFENAMIDE FUMARATE	CHEMBL2364637	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	2015
+949.8000000000000000	11676	Human immunodeficiency virus 1	TENOFOVIR DISOPROXIL FUMARATE	CHEMBL1486	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	2001
+886.3666666666666667	9606	Homo sapiens	TERIPARATIDE	CHEMBL525610	Parathyroid hormone receptor agonist	4	2002
+886.3666666666666667	9606	Homo sapiens	TERIPARATIDE ACETATE	CHEMBL1201549	Parathyroid hormone receptor agonist	4	1987
+1494.3800000000000000	9606	Homo sapiens	TERODILINE HYDROCHLORIDE	CHEMBL539770	Voltage-gated calcium channel blocker	4	1986
+2219.8000000000000000	2	Bacteria	TETRACYCLINE	CHEMBL1440	Bacterial 70S ribosome inhibitor	4	1953
+2219.8000000000000000	2	Bacteria	TETRACYCLINE HYDROCHLORIDE	CHEMBL454950	Bacterial 70S ribosome inhibitor	4	1953
+2219.8000000000000000	2	Bacteria	TETRACYCLINE PHOSPHATE COMPLEX	CHEMBL1201071	Bacterial 70S ribosome inhibitor	4	1957
+1048.6000000000000000	9606	Homo sapiens	TETRAHYDROZOLINE HYDROCHLORIDE	CHEMBL1200413	Adrenergic receptor alpha agonist	4	1979
+884.4000000000000000	9606	Homo sapiens	TG-02	CHEMBL1944698	Cyclin-dependent kinase 1 inhibitor	1	
+958.4000000000000000	9606	Homo sapiens	TG100-801	CHEMBL403989	SRC inhibitor	2	
+962.7500000000000000	2	Bacteria	TICARCILLIN DISODIUM	CHEMBL1200855	Bacterial penicillin-binding protein inhibitor	4	1976
+2219.8000000000000000	2	Bacteria	TIGECYCLINE	CHEMBL376140	Bacterial 70S ribosome inhibitor	4	2005
+1014.4857142857142857	287	Pseudomonas aeruginosa	TOBRAMYCIN	CHEMBL1747	70S ribosome inhibitor	4	1975
+1014.4857142857142857	287	Pseudomonas aeruginosa	TOBRAMYCIN SULFATE	CHEMBL3989564	70S ribosome inhibitor	4	1975
+1132.5000000000000000	9606	Homo sapiens	TOFACITINIB CITRATE	CHEMBL2103743	Janus Kinase (JAK) inhibitor	4	2012
+1048.6000000000000000	9606	Homo sapiens	TOLAZOLINE HYDROCHLORIDE	CHEMBL1689	Adrenergic receptor alpha antagonist	4	1985
+939.2000000000000000	9606	Homo sapiens	TOLAZOLINE HYDROCHLORIDE	CHEMBL1689	Histamine H2 receptor agonist	4	1985
+1033.7000000000000000	9606	Homo sapiens	TRAMETINIB DIMETHYL SULFOXIDE	CHEMBL2105741	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	4	2013
+847.5000000000000000	9606	Homo sapiens	TRETINOIN	CHEMBL38	Retinoic acid receptor agonist	4	1971
+931.8000000000000000	9606	Homo sapiens	TRIMETHAPHAN CAMSYLATE	CHEMBL1245	Neuronal acetylcholine receptor; alpha3/beta4 antagonist	4	1982
+1128.9500000000000000	9606	Homo sapiens	ULIXERTINIB	CHEMBL3545022	MAP kinase ERK1 inhibitor	2	
+886.5000000000000000	9606	Homo sapiens	VALDECOXIB	CHEMBL865	Cyclooxygenase-2 inhibitor	4	2001
+963.5750000000000000	9606	Homo sapiens	VANDETANIB	CHEMBL24828	Ephrin receptor inhibitor	4	2011
+1386.8000000000000000	9606	Homo sapiens	VANDETANIB	CHEMBL24828	Tyrosine-protein kinase BRK inhibitor	4	2011
+867.7500000000000000	9606	Homo sapiens	VEROSUDIL	CHEMBL3545065	Rho-associated protein kinase inhibitor	2	
+1273.9250000000000000	9606	Homo sapiens	VIDUPIPRANT	CHEMBL1951575	Prostanoid DP receptor antagonist	2	
+1066.9727272727272727	1773	Mycobacterium tuberculosis	VIOMYCIN SULFATE	CHEMBL3989823	70S ribosome inhibitor	4	1982
+1033.7000000000000000	9606	Homo sapiens	WX-554	CHEMBL3545145	Dual specificity mitogen-activated protein kinase kinase 2 inhibitor	1	
+958.5500000000000000	9606	Homo sapiens	XIMELAGATRAN	CHEMBL522038	Thrombin inhibitor	4	
+958.4000000000000000	9606	Homo sapiens	XL-228	CHEMBL3545085	SRC inhibitor	1	
+924.8000000000000000	9606	Homo sapiens	XL-228	CHEMBL3545085	Tyrosine-protein kinase ABL inhibitor	1	
+867.7500000000000000	9606	Homo sapiens	Y-39983	CHEMBL571948	Rho-associated protein kinase inhibitor	1	
+949.8000000000000000	11676	Human immunodeficiency virus 1	ZALCITABINE	CHEMBL853	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	1992
+949.8000000000000000	11676	Human immunodeficiency virus 1	ZIDOVUDINE	CHEMBL129	Human immunodeficiency virus type 1 reverse transcriptase inhibitor	4	1987
+943.5000000000000000	9606	Homo sapiens	ZILEUTON	CHEMBL93	Arachidonate 5-lipoxygenase inhibitor	4	1996
+1098.4250000000000000	9606	Homo sapiens	ZOLMITRIPTAN	CHEMBL1185	Serotonin 1d (5-HT1d) receptor agonist	4	1997
