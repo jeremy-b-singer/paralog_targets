@@ -14,7 +14,7 @@ conn = dbConnect(drv=RPostgres::Postgres(),
                  host=host,
                  port=port)
 
-get_kmeans_threshold<-function(conn, tax_id){
+get_kmeans_threshold<-function(conn, tax_id, clusters=2){
   q_tax_org = paste0('SELECT distinct organism ',
                      'FROM target_dictionary ',
                      'where tax_id=',
@@ -36,7 +36,8 @@ get_kmeans_threshold<-function(conn, tax_id){
   org_score=dbGetQuery(conn, q_org_score)
   organism=org$organism[1]
   attach(org_score)
-  kmo=kmeans(score,2)
+#  kmo=kmeans(score,2)
+  kmo=kmeans(score,clusters)
   if (kmo$centers[1] < kmo$centers[2]){
     thresh=min(score[kmo$cluster==2])
   } else {
