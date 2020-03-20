@@ -38,11 +38,7 @@ get_kmeans_threshold<-function(conn, tax_id, clusters=2){
   attach(org_score)
 #  kmo=kmeans(score,2)
   kmo=kmeans(score,clusters)
-  if (kmo$centers[1] < kmo$centers[2]){
-    thresh=min(score[kmo$cluster==2])
-  } else {
-    thresh=min(score[kmo$cluster==1])
-  }
+  thresh=min(score[kmo$cluster==max(kmo$cluster)]) # minimum score of highest cluster
   
   plot(score,col=kmo$cluster, main=paste('kmeans for ',organism, ', threshold=',thresh)) 
   detach()
