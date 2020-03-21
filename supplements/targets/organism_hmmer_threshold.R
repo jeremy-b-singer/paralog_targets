@@ -16,7 +16,7 @@ conn = dbConnect(drv=RPostgres::Postgres(),
 
 get_kmeans_threshold<-function(conn, tax_id, clusters=2){
   q_tax_org = paste0('SELECT distinct organism ',
-                     'FROM target_dictionary ',
+                     'FROM hmmer_statistics ',
                      'where tax_id=',
                      tax_id)
   q_org_score = paste0(
@@ -38,8 +38,10 @@ get_kmeans_threshold<-function(conn, tax_id, clusters=2){
   attach(org_score)
 #  kmo=kmeans(score,2)
   kmo=kmeans(score,clusters)
-  thresh=min(score[kmo$cluster==max(kmo$cluster)]) # minimum score of highest cluster
-  
+
+  thresh = min(score[ # lowest score
+    kmo$cluster==which(kmo$centers==max(kmo$centers)) # in highest cluster
+  ])  
   plot(score,col=kmo$cluster, main=paste('kmeans for ',organism, ', threshold=',thresh)) 
   detach()
   return(thresh)
