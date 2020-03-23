@@ -1,5 +1,5 @@
 setwd('../pfalciparum_drug_interventions')
-drug_studies=read.csv(file="pfalciparum_stadies.tsv", header = TRUE, sep = "\t", stringsAsFactors = FALSE)
+drug_studies=read.csv(file="pfalciparum_studies.tsv", header = TRUE, sep = "\t", stringsAsFactors = FALSE)
 drug_interventions=drug_studies[grep('Drug:',drug_studies$Interventions),]
 
 intervention=drug_interventions[1,'Interventions']

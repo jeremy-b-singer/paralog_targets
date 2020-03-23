@@ -19,3 +19,22 @@ get_unique_drugs=function (conn, tax_id, threshold){
   drugs = dbGetQuery(conn,q_unique_drugs)
   return(drugs)
 }
+
+get_unique_blast_drugs=function(conn,tax_id,threshold){
+  where_clause = paste0('WHERE score >= ', threshold, ' and b.tax_id=',tax_id,
+                        ' and md.first_approval is not null')
+  
+  q_unique_drugs=paste(  'SELECT max(b.score) as score, md.pref_name '
+                         ,'from blast_statistics b'
+                         , '    join target_dictionary td'
+                         , '    ON b.target = td.chembl_id'
+                         , '    JOIN drug_mechanism dm'
+                         , '    ON td.tid = dm.tid'
+                         , '    JOIN molecule_dictionary md'
+                         , '    ON dm.molregno = md.molregno'
+                         , where_clause
+                         , 'group by md.chembl_id, md.pref_name'
+                         , 'ORDER BY md.pref_name')
+  drugs = dbGetQuery(conn,q_unique_drugs)
+  return(drugs)
+}
