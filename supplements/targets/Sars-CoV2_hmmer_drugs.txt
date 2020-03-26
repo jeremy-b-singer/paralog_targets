@@ -1,0 +1,4 @@
+avg_score	original_tax_id	orig_organism	pref_name	chembl_id	mechanism_of_action	max_phase	first_approval
+4350.9000000000000000	1773	Mycobacterium tuberculosis	CAPREOMYCIN SULFATE	CHEMBL2218913	70S ribosome inhibitor	4	1971
+4350.9000000000000000	1773	Mycobacterium tuberculosis	PYRAZINAMIDE	CHEMBL614	70S ribosome inhibitor	4	1971
+4350.9000000000000000	1773	Mycobacterium tuberculosis	VIOMYCIN SULFATE	CHEMBL3989823	70S ribosome inhibitor	4	1982
