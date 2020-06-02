@@ -1,0 +1,4 @@
+score	original_tax_id	orig_organism	target_type	target_name	target_chembl_id	drug_name	drug_chembl_id
+4350.9	1773	Mycobacterium tuberculosis	PROTEIN NUCLEIC-ACID COMPLEX	70S ribosome	CHEMBL2363965	VIOMYCIN SULFATE	CHEMBL3989823
+4350.9	1773	Mycobacterium tuberculosis	PROTEIN NUCLEIC-ACID COMPLEX	70S ribosome	CHEMBL2363965	CAPREOMYCIN SULFATE	CHEMBL2218913
+4350.9	1773	Mycobacterium tuberculosis	PROTEIN NUCLEIC-ACID COMPLEX	70S ribosome	CHEMBL2363965	PYRAZINAMIDE	CHEMBL614

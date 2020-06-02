@@ -1,0 +1,263 @@
+>> CHEMBL2363965  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -4.5   0.2      0.31   3.6e+02     607     707 ..     382     489 ..     369     501 .. 0.75
+   2 ?   -4.3   0.2      0.27   3.1e+02     666     860 ..     752     935 ..     736     946 .. 0.71
+   3 !  181.4   0.7     3e-57   3.4e-54    1653    1844 ..    1037    1217 ..    1015    1235 .. 0.93
+   4 !  150.2   0.0   7.6e-48   8.6e-45     998    1198 ..    1229    1420 ..    1219    1431 .. 0.94
+   5 !  339.2   1.3  8.7e-105  9.9e-102    1571    1884 ..    1581    1880 ..    1573    1899 .. 0.96
+   6 ! 3699.3 101.3         0         0    2163    4407 ..    1900    4053 ..    1884    4055 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: -4.5 bits;  conditional E-value: 0.31
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 607 gglvqltsqwlsnllgtvveklrpilewleaklsagveflkdawei....lkflitgvfdivkgqiqvasd...eikdsvktfidvvnkale 691
+                         g+  l  + l+n     v k   +++ + + + a ++++  +  +    +k ++++v+ + +g i +++d     + + +tf + +  a++
+      CHEMBL2363965 382 AGMFGLYDDILTNNKPWFVRKASGLFDAIWDAFVAAIKLVPTTTGVlvrfVKSIASTVLTVSNGVIIMCADvpdAFQSVYRTFTQAICAAFD 473
+                        556666666677777777888888888888888888888876654311115667788999999*9999996332566677999999****** PP
+
+                        xxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 692 lcidqviiagaklrsl 707
+                        + +d   i+  k++ l
+      CHEMBL2363965 474 FSLDVFKIGDVKFKRL 489
+                        ********99999875 PP
+
+  == domain 2  score: -4.3 bits;  conditional E-value: 0.27
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 666 gqiqvasdeikdsvktfidvvnkalelcidqviiagaklrslnlgevfiaqskglyrkcirgkeelqllmplkapkeviflegdsldtvlls 757
+                        g +  +++  + ++  ++dv n +le +      ag  ++   +   ++  s g+  ++ir +e+ ++ +p  +   v+f+  + ldt +  
+      CHEMBL2363965 752 GLLGNCAKRFRRVLVKLLDVYNGFLETVCSVAYTAGVCIKYYAVNVPYVVIS-GFVSRVIR-RERCDMTFPCVS--CVTFFY-EFLDTCFGV 838
+                        5666778888888888888888888887777777887777666666666655.55556665.677777777654..455553.456665543 PP
+
+                        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 758 eevvlkngelealetpvdsfveaalvgtpvcvnglmlleikdkekycalspgllatnnvfrlkggapikvtfgedt.vlevqgyknvritfe 848
+                         +   ++ ++e le     fve    g    v g  l  + d   y a + g+l      +l gg   k++f +d  v +v+  ++v++ fe
+      CHEMBL2363965 839 SK--PNAIDVEHLELKETVFVEP-KDGGQFFVSGDYLWYVVDDIYYPASCNGVLPVAF-TKLAGG---KISFSDDViVHDVEPTHKVKLIFE 923
+                        32..2344677777777777764.4677788999999999999999999999887653.467776...899*99973578************ PP
+
+                        xxxxxxxxxxxx RF
+  MN908947.3_281-i3 849 ldervdkvlnek 860
+                        +++ v   l +k
+      CHEMBL2363965 924 FEDDVVTSLCKK 935
+                        999887777665 PP
+
+  == domain 3  score: 181.4 bits;  conditional E-value: 3e-57
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 1653 alnhtkkykfpqvgGlrslktadnnCylssvllaLqqlelkfnskalqeayyraraGdvanfvalilalsnktvGelGdvretlskLlqe 1742
+                         ++++ ++++f+++ G+r+l+++dnnC++s++l++Lq+++l ++s+++q  ++  ++G+v+++v+++++ls+ ++G+lGd+ ++ls+Ll+e
+      CHEMBL2363965 1037 SIKQPFSFSFRDELGVRVLDQSDNNCWISTTLVQLQLTKLLDDSIEMQ--LF--KVGKVDSIVQKCYELSHLISGSLGDSGKLLSELLKE 1122
+                         5667799*****************************************..55..9*********************************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 1743 anlesikrvlnvvcktCgqkkttlvgveavlyigtlsy.evlkkGvdipcvcgrdatkklvqqessfvlisap.pieyklkqgtficase 1830
+                         +  ++++++++++c +Cg+k++++vg+  +++i  ++y + ++kG+  +c+c++++t+klv+++++ v++++p pi+++++++++ic+s+
+      CHEMBL2363965 1123 K--YTCSITFEMSC-DCGKKFDDQVGC--LFWI--MPYtKLFQKGE--CCICHKMQTYKLVSMKGTGVFVQDPaPIDIDAFPVKPICSSV 1203
+                         9..9**********.************..99*9..***8899****..****************************************** PP
+
+                         xxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 1831 ytGnyqcGhykhit 1844
+                         y+G++++Ghy+++ 
+      CHEMBL2363965 1204 YLGVKGSGHYQTNL 1217
+                         **********9875 PP
+
+  == domain 4  score: 150.2 bits;  conditional E-value: 7.6e-48
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3  998 sednqttsvqtvvevepelepeltpeveaeevnqftgylkltdnvaikvvdivkevkkvkvdvvvnaanielkhgggvakalnkatngal 1087
+                           d + +sv+tv++v+++   ++++e+ea ev++f++y    +nv+++++di++ v++v++d+vvnaan++l hgggva+a++  t+g+l
+      CHEMBL2363965 1229 VFDIKNSSVNTVCFVDVD---FHSVEIEAGEVKPFAVY----KNVKFYLGDISHLVNCVSFDFVVNAANENLLHGGGVARAIDILTEGQL 1311
+                         5678899***********...9****************....9*********************************************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 1088 qkesddyiklngplkvggsvllsgknlakkvlhvvgpnlnkgediqllkeayee.fnsqeilllPllsaGifgakplkslevivdtvrtn 1176
+                         q+ s+dyi++ngplkvg++v+l+++++  +v++vvgp++ k+e++ ll eay++  +++ i l+Plls+Gifg+++++sl+++++ ++ n
+      CHEMBL2363965 1312 QSLSKDYISSNGPLKVGAGVMLECEKF--NVFNVVGPRTGKHEHS-LLVEAYNSiLFENGIPLMPLLSCGIFGVRIENSLKALFS-CDIN 1397
+                         ***************************..**************98.99999997589***************************9.9*** PP
+
+                         xxxxxxxxxx.xxxxxxxxxxxx RF
+  MN908947.3_281-i3 1177 vylavfdksl.keqvvvkfldnl 1198
+                         + l+vf +s+ +eq+v+kfld l
+      CHEMBL2363965 1398 KPLQVFVYSSnEEQAVLKFLDGL 1420
+                         ******998868899*****976 PP
+
+  == domain 5  score: 339.2 bits;  conditional E-value: 8.7e-105
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 1571 tikvfttvdninlktqvvdmsktyGkqlGptyldGadvtk.ikphvshegktlfvlpeddtlrveafeyyhtldesflgrylsalnhtkk 1659
+                          +++++t+d+in+k++vv++sk++GkqlG+ ++dG+d+++ ++p++++  ++l+v+pe+d++++++fe+          ++l+a++++k+
+      CHEMBL2363965 1581 NVVLKITEDGINVKDVVVESSKSLGKQLGV-VSDGVDSFEgVLPINTD--TVLSVAPEVDWVAFYGFEK----------AALFASLDVKP 1657
+                         689***************************.*****************..*******************..........9********** PP
+
+                         xxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 1660 ykfpq..vgGlrslktadnnCylssvllaLqqlelkfnskalqeayyraraGdvanfvalilalsnktvGelGdvretlskLlqeanles 1747
+                         y++p+  vgG+r+l+t+dnnC++++++++Lq+l+++f+sk+l+++++++++Gdv++fv++i++++++++G++Gd++e+lskL+++++++s
+      CHEMBL2363965 1658 YGYPNdfVGGFRVLGTTDNNCWVNATCIILQYLKPTFKSKGLNVLWNKFVTGDVGPFVSFIYFITMSSKGQKGDAEEALSKLSEYLISDS 1747
+                         *****9************************************************************************************ PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 1748 ikrvlnvvcktCgqkkttlvgveavlyigtlsyevlkkGvdipcvcgrdatkklvqqessfvlisap...pieyklkqgtficaseytGn 1834
+                         i+++++  ++tC+++k+t+v+v++++++    ++vlk+G+d++++++r++++++v++++++v+i+++   +i++++k +++i++++++G+
+      CHEMBL2363965 1748 IVTLEQ--YSTCDICKSTVVEVKSAIVC----ASVLKDGCDVGFCPHRHKLRSRVKFVNGRVVITNVgepIISQPSKLLNGIAYTTFSGS 1831
+                         ******..99******************....9********************************988889******************* PP
+
+                         xxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 1835 yqcGhykhitak.etlyridGarltksseykgpvtdvfyketsytttikpv 1884
+                         +++Ghy++++a+ +++y  dGarl++s++++++vt+++++++++t+ +  +
+      CHEMBL2363965 1832 FDNGHYVVYDAAnNAVY--DGARLFSSDLSTLAVTAIVVVGGCVTSNVPTI 1880
+                         **********99899**..***************************98653 PP
+
+  == domain 6  score: 3699.3 bits;  conditional E-value: 0
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx...x..xxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 2163 rladrvlnnylpyvltlllqlctltrstnsrikaslpttiaknsvksvaklildasiny.vkspkfs...k..litillkllllsialgs 2246
+                         + +d+v+ n+++++lt+ll++++l+r++  ++k+++ ++iak+ +k++++ il++s++y ++s+ f+   k  +i++l+k+lll++a+++
+      CHEMBL2363965 1900 QFGDFVM-NNIVLFLTWLLSMFSLLRTS--IMKHDI-KVIAKA-PKRTGV-ILTRSFKYnIRSALFVikqKwcVIVTLFKFLLLLYAIYA 1983
+                         6789***.99****************99..******.******.*****9.****************966488***************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x RF
+  MN908947.3_281-i3 2247 lifvtaafgvllsnlgapsycngvregylnstnvtkadycegslpcsiclsgldsldsypaletiqvtissykldltilglaaevvla.y 2335
+                         l+f++++f++++s     ++c+++++gy++st+ +k++yc++s++c++cl+++++++   +l+++++++++++ d+++++l+++v+l+ +
+      CHEMBL2363965 1984 LVFMIVQFSPFNS-----LLCGDIVSGYEKSTF-NKDIYCGNSMVCKMCLFSYQEFN---DLDHTSLVWKHIR-DPILISLQPFVILViL 2063
+                         *************.....9**************.***********************...*************.*************989 PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 2336 llftklfyllGlsaivqvffsyfashfisnswlmwfiislvqlaPvsalvrmyiflasfy..yivksyvhiidGcnsstcvmcykrnrat 2423
+                         l+f+++++++Gl+++v++f+s+f+ +f+++++++wf+    +++P+++l++++  la+f+  +iv++++hii+Gcn+++cv+c+k++r++
+      CHEMBL2363965 2064 LIFGNMYLRFGLLYFVAQFISTFG-SFLGFHQKQWFL----HFVPFDVLCNEF--LATFIvcKIVLFVRHIIVGCNNADCVACSKSARLK 2146
+                         9***********************.9***********....***********9..9***999**************************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 2424 rvelttivnGmkrsfyvyanGGkgfckkhnfncvncdtfcaGstfisdevardlslqfkrpinPtdqssyivdsvavknGalrlyfdkag 2513
+                         rv+l+ti+nGm++sfyv+anGG++fc+khnf+cvncd+f++G+tfi++++ar+l++++k++++Pt+++++i+d+v+++nG++rly++   
+      CHEMBL2363965 2147 RVPLQTIINGMHKSFYVNANGGTCFCNKHNFFCVNCDSFGPGNTFINGDIARELGNVVKTAVQPTAPAYVIIDKVDFVNGFYRLYSG--- 2233
+                         ***************************************************************************************... PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 2514 qktyerhdlshfvnldnlranntkgslpinvivfdgkskcdesasksasvyysqllcqPillldqalvsdvgdsvevsvklfdayvdtls 2603
+                          +t++r+d+++++++++++++++++++++n+iv+++ s+++++++k+a+vy+sqllc+Pi+l++++l+s+++  v+++++l++ayvd+l+
+      CHEMBL2363965 2234 -DTFWRYDFDITESKYSCKEVLKNCNVLENFIVYNN-SGSNITQIKNACVYFSQLLCEPIKLVNSELLSTLS--VDFNGVLHKAYVDVLC 2319
+                         .***********************************.**********************************9..**************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx RF
+  MN908947.3_281-i3 2604 atfsvpmeklkalvataeselaknvsldevlstfvsaarqGlvdsdvdtkdvvealklshrsdlevtgdscnnflltynkven.ltprdl 2692
+                         ++f++              el++n+s++e+++t      +Gl++sd   +d+v+a++++hr+d++++++s+nnf+++y+k+e+ l+++d+
+      CHEMBL2363965 2320 NSFFK--------------ELTANMSMAECKAT------LGLTVSD---DDFVSAVANAHRYDVLLSDLSFNNFFISYAKPEDkLSVYDI 2386
+                         *****..............**************......9******...***************************************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 2693 gacidanarhinaqvaksenisliwnvkdfmslseqlrkqirsaakknnlpfkltcattrqvvnvittkislkgGkivkrtfklllkvtl 2782
+                         ++c++a+++++n++v+++e+i+++w+vkdf++ls++++k++++++k+++l+f+lt+++++++++v++t+i++k+G+++krt++   ++++
+      CHEMBL2363965 2387 ACCMRAGSKVVNHNVLIKESIPIVWGVKDFNTLSQEGKKYLVKTTKAKGLTFLLTFNDNQAITQVPATSIVAKQGAGFKRTYN---FLWY 2473
+                         ***********************************************************************************...9*** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 2783 vcllvaavfyivspvdvlsihtsftneiigykaiedGvtrdiistddcfankhadfdawfsqrgGsy.kndkscPvvaavitreigfvvP 2871
+                         vcl+v+a+f++vs++d+++++tsf++  +++k+ie+G++++++++++c++n++++f++w+++++G++ +n+++cP+v++v++r i +vvP
+      CHEMBL2363965 2474 VCLFVVALFIGVSFIDYTTTVTSFHG--YDFKYIENGQLKVFEAPLHCVRNVFDNFNQWHEAKFGVVtTNSDKCPIVVGVSER-I-NVVP 2559
+                         **************************..**************************************999**************.8.**** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 2872 GlPgtvlraingdllhflprvfsavGnicytpsklieysdfatsacvlaaectilkdasGkpvpycydtnlleGsisyselrPdtryvlm 2961
+                         G+P++v+++ +++l+++l+++f+++G +cy++++++     ++++c+++++ct+l++++G++v ycy+t+l+eGs++ys+l+P+++y+++
+      CHEMBL2363965 2560 GVPTNVYLV-GKTLVFTLQAAFGNTG-VCYDFDGVT-----TSDKCIFNSACTRLEGLGGDNV-YCYNTDLIEGSKPYSTLQPNAYYKYD 2641
+                         ********9.****************.*********.....**********************.************************** PP
+
+                         xxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 2962 dgsiiqfPntyleG.svrvvttldaeycrhGtcersevGvclstsgrwvlnneyyralsGvfcGvdainllanvltplvqpvgaldvsas 3050
+                         ++++++fP+++++G ++r+++tl+++ycr+G+c++s++Gvc+++ ++w++n++  r+++G++cG+++i+ll+nvl++++++++++++s++
+      CHEMBL2363965 2642 AKNYVRFPEILARGfGLRTIRTLATRYCRVGECRDSHKGVCFGF-DKWYVNDG--RVDDGYICGDGLIDLLVNVLSIFSSSFSVVAMSGH 2728
+                         ********************************************.********..*********************************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 3051 vvaggiiailvtclayyfmkfrrvfGeyshvvaanallfllsftilvlvpaysflpgvysvlylyltfyltndvsflahlqylvmfsplv 3140
+                         +++++++a+++t+l+++++kf+rvfG++s++v+++++++l++++++v+++ ++f++++y++ly  ++f++t+++++++h++y+v++++l+
+      CHEMBL2363965 2729 MLFNFLFAAFITFLCFLVTKFKRVFGDLSYGVFTVVCATLINNISYVVTQ-NLFFMLLYAILY--FVFTRTVRYAWIWHIAYIVAYFLLI 2815
+                         **************************************************.**********99..************************* PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 3141 Pfwitaiyvfaislkhflwllnnylkkrv...lfnGvkf.stfeeaalctfllnkemylklrsevllPltkynrylalynkykyfsGald 3226
+                         P+w++++++fa    +fl+ll+n++k+++   lf+G+kf +tfe+aa++tf+l++++y++l++++ +P +k+++y+a+ynkyky+sG+++
+      CHEMBL2363965 2816 PWWLLTWFSFA----AFLELLPNVFKLKIstqLFEGDKFiGTFESAAAGTFVLDMRSYERLINTI-SP-EKLKNYAASYNKYKYYSGSAS 2899
+                         ***********....*************************************************9.**.********************* PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 3227 ttsyreaacahlakalndfsnsgadvlyqPPqtsitsavlqsGfkklafPsgkvekCvvqvtygtttLnGlWLdDtvyCPrhviatsedl 3316
+                         +++yr+a++ahlaka++d++++++d+ly+PP++s++s +lqsG+kk+a+Psg+ve+Cvv+v+yg+t+LnG+WL+Dtv+CPrhvia+s+++
+      CHEMBL2363965 2900 EADYRCACYAHLAKAMLDYAKDHNDMLYSPPTISYNS-TLQSGLKKMAQPSGCVERCVVRVCYGSTVLNGVWLGDTVTCPRHVIAPSTTV 2988
+                         *************************************.**************************************************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 3317 lnpnyedllirksnhnflvqagnvqLrvvghslqnavLrlkvdtsnpktPkykfvrikpGdsfsvlacynGsasGvyqvalrpnftikgs 3406
+                         l+ +y+++++++++hnf+v++++v+L+vvg++++++vLr+kv++sn++tPk++f+++kpGdsf++lacy+G+asGv++v+lr+nftikgs
+      CHEMBL2363965 2989 LI-DYDHAYSTMRLHNFSVSHNGVFLGVVGVTMHGSVLRIKVSQSNVHTPKHVFKTLKPGDSFNILACYEGIASGVFGVNLRTNFTIKGS 3077
+                         **.9************************************************************************************** PP
+
+                         xxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 3407 flnGaCGsvGfnidkd.vvsfcylhhleLptgvhaGtDleGkfyGpfvDrqtaqaagtdtlitlnvlawLyaavingdrWfLnrftvtln 3495
+                         f+nGaCGs+G+n+++d +v+fcylh++eL++g+h+G+D++G++yG+f+D++++q++++++++++nv+a+Lyaa++ng+rW+L++++v+++
+      CHEMBL2363965 3078 FINGACGSPGYNVRNDgTVEFCYLHQIELGSGAHVGSDFTGSVYGNFDDQPSLQVESANLMLSDNVVAFLYAALLNGCRWWLCSTRVNVD 3167
+                         ****************************************************************************************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 3496 dfnlvamkynyeplsqdsvdilgkLsaktGvavldlcaslkellqnglngrtiLGstileDeftpadvvrqvsGvtlqskvkkvikGtkh 3585
+                         +fn++am+++y+++s  sv+++++L+aktGv+v++l+as+++l ++g++g++iLG+++l+Deft+a+vv+q++Gv+lqs+  kvi+G+k+
+      CHEMBL2363965 3168 GFNEWAMANGYTSVS--SVECYSILAAKTGVSVEQLLASIQHL-HEGFGGKNILGYSSLCDEFTLAEVVKQMYGVNLQSG--KVIFGLKT 3252
+                         ***************..9************************9.************************************..******** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 3586 lllltvltsllilvqstqyslfffvyenallPftlgilalsavamllvkhkhaflclfllPslatvayfnmvympasyvvriltwlelad 3675
+                         ++l++v+++++ ++++++y++++++++++l+P+++++l+ls+v+++++khk++fl++fllP+++++a++n+v+  ++y+v++l+++++++
+      CHEMBL2363965 3253 MFLFSVFFTMF-WAELFIYTNTIWINPVILTPIFCLLLFLSLVLTMFLKHKFLFLQVFLLPTVIATALYNCVL--DYYIVKFLADHFNYN 3339
+                         ***********.*************************************************************..*************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 3676 tslsgyklkdlvmyasalvllilmtartvyddaarrvwtlmnvitlvykvyygnaldqaismfalvisvtsnysGvvttvlflaraivfv 3765
+                         +s++++++++lv+++++l++++l+t+r++++++++++++++++i+++y+++y+++++++++mf+++is +++y+G+  +v++l+r+ivf+
+      CHEMBL2363965 3340 VSVLQMDVQGLVNVLVCLFVVFLHTWRFSKERFTHWFTYVCSLIAVAYTYFYSGDFLSLLVMFLCAIS-SDWYIGA--IVFRLSRLIVFF 3426
+                         ********************************************************************.*******..************ PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 3766 cveyypllfitGntlklillvylflGylvccyfGllcllnryfrltlGvydylvstqefrymnsqGllpPkssidalklnikllGiGGkp 3855
+                         ++e  ++++++G+ +kl+l+vyl++Gylvc+y+G+l+++nr+f++t+Gvyd++vs++ef+ym+++Gl++P++++dal+l++kllGiGG++
+      CHEMBL2363965 3427 SPE--SVFSVFGD-VKLTLVVYLICGYLVCTYWGILYWFNRFFKCTMGVYDFKVSAAEFKYMVANGLHAPHGPFDALWLSFKLLGIGGDR 3513
+                         ***..********.**************************************************************************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 3856 cikvatvqsklsdvkctsvvllsvlqqlrvesssklwaqcvqlhndillakdtteafeklvsllsvllskqgavdinklieemldnratl 3945
+                         cik++tvqskl+d+kct+vvll++l++++++++s++wa+cv+lhn+i+l++d+++a+++l++ll+++lsk++++++++li++++dn++tl
+      CHEMBL2363965 3514 CIKISTVQSKLTDLKCTNVVLLGCLSSMNIAANSSEWAYCVDLHNKINLCDDPEKAQSMLLALLAFFLSKHSDFGLDGLIDSYFDNSSTL 3603
+                         ****************************************************************************************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 3946 qaiasefsslPsyaayataqeayeqavanGdsevvlkklkkslnvaksefdrdaavqrklekmadqamtqmykqarsedkrakvtsamqt 4035
+                         q++as+f+s+Psy+ay++a++aye+a+anG+s++++k+lk+++n+aksefd++++vq+k+++ma+qa+tqmyk+ars+++++kv+sam++
+      CHEMBL2363965 3604 QSVASSFVSMPSYIAYENARQAYEDAIANGSSSQLIKQLKRAMNIAKSEFDHEISVQKKINRMAEQAATQMYKEARSVNRKSKVISAMHS 3693
+                         ****************************************************************************************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 4036 llftmlrkldndalnniinnardGvvPlniiPlttaaklmvvvPdyety.kntcdGstftyasalweiqqvvdadskivqlseiskdnse 4124
+                         llf+mlr+ld++++++++n+ardGvvPl++iP+t+a+kl++v+Pd+e+y k++cdGs+ +ya+++w++++v+d+d+++v+++ei+k+n+e
+      CHEMBL2363965 3694 LLFGMLRRLDMSSVETVLNLARDGVVPLSVIPATSASKLTIVSPDLESYsKIVCDGSV-HYAGVVWTLNDVKDNDGRPVHVKEITKENVE 3782
+                         **********************************************************.******************************* PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 4125 nlawPlivtalransavklqnnelsPvalrqkscaagttqtaltddnalayyntekGgrfvlallsdkqdlkfarfeksdGtgtiytele 4214
+                         +l+wPli++++   ++vklqnne++P++l+qk+++a++++++l+d+nal  ynte+G++f++a++s+k+dlkf+++e+++G++ti  el+
+      CHEMBL2363965 3783 TLTWPLILNCE---RVVKLQNNEIMPGKLKQKPMKAEGDGGVLGDGNAL--YNTEGGKTFMYAYISNKADLKFVKWEYEGGCNTI--ELD 3865
+                         ***********...9**********************************..**********************************..*** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 4215 pPcrfvtdtPkGPkvkylyfikglnnlnrGmvlGslaatvrlqaGnatevpanstvlsfcafavdpakaykdylasGgkPitncvkmlct 4304
+                         +Pcrf+++tP+GP+vkylyf+k+ln+l+rG+vlG+++at+rlqaG++te+++ns++l++caf+vdpa++y++++++G+kP++nc+kml++
+      CHEMBL2363965 3866 SPCRFMVETPNGPQVKYLYFVKNLNTLRRGAVLGFIGATIRLQAGKQTELAVNSGLLTACAFSVDPATTYLEAVKHGAKPVSNCIKMLSN 3955
+                         ****************************************************************************************** PP
+
+                         xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx RF
+  MN908947.3_281-i3 4305 htGtGqaitvtpeanmdqesfGGasiclycrahidhPnpkGfcdlkGkyvqiPttcandPvgftlkntvctvcGmwkGyGcscdqlrepl 4394
+                         ++G+Gqait++++an++q+s+GGasiclycrah++hP+++G+c++kGk+vq+P++c+ dP++f+l+n+vc+vcG+w+G+Gc+cd++   +
+      CHEMBL2363965 3956 GAGNGQAITTSVDANTNQDSYGGASICLYCRAHVPHPSMDGYCKFKGKCVQVPIGCL-DPIRFCLENNVCNVCGCWLGHGCACDRT---T 4041
+                         *********************************************************.****************************...* PP
+
+                         xxxxxxxxxxxxx RF
+  MN908947.3_281-i3 4395 lqsadassflnel 4407
+                         +qs+d+ s+lne 
+      CHEMBL2363965 4042 IQSVDI-SYLNEQ 4053
+                         ******.****86 PP
+

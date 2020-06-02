@@ -1,0 +1,247 @@
+CHEMBL5542  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 8422.5  68.3         0         0       5    4406 ..       1    4379 [.       1    4381 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 8422.5 bits;  conditional E-value: 0
+  MN908947.3_281    5 meslvpgfnekthvqlslpvlqvrdvlvrgfgdsveevlsearqhlkdgtcglvevekgvlpqleqpyvfikrsdartaphghvmvelvaele 97  
+                      meslv g nekthvqlslpvlqvrdvlvrgfgdsvee lsear+hlk+gtcglve+ekgvlpqleqpyvfikrsda +  hgh +velvae++
+      CHEMBL5542    1 MESLVLGVNEKTHVQLSLPVLQVRDVLVRGFGDSVEEALSEAREHLKNGTCGLVELEKGVLPQLEQPYVFIKRSDALSTNHGHKVVELVAEMD 93  
+                      89******************************************************************************************* PP
+
+  MN908947.3_281   98 giqygrsgetlgvlvphvgeipvayrkvllrkngnkgagghsygadlksfdlgdelgtdpyedfqenwntkhssgvtrelmrelnggaytryv 190 
+                      giqygrsg tlgvlvphvge p+ayr vllrkngnkgagghsyg dlks+dlgdelgtdp ed+++nwntkh sg  rel relngga tryv
+      CHEMBL5542   94 GIQYGRSGITLGVLVPHVGETPIAYRNVLLRKNGNKGAGGHSYGIDLKSYDLGDELGTDPIEDYEQNWNTKHGSGALRELTRELNGGAVTRYV 186 
+                      ********************************************************************************************* PP
+
+  MN908947.3_281  191 dnnfcgpdgyplecikdllaragkasctlseqldfidtkrgvyccreheheiawyterseksyelqtpfeiklakkfdtfngecpnfvfplns 283 
+                      dnnfcgpdgypl+cikd+laragk+ ctlseqld+i++krgvyccr+heheiaw+ters+ksye qtpfeik akkfdtf gecp fvfplns
+      CHEMBL5542  187 DNNFCGPDGYPLDCIKDFLARAGKSMCTLSEQLDYIESKRGVYCCRDHEHEIAWFTERSDKSYEHQTPFEIKSAKKFDTFKGECPKFVFPLNS 279 
+                      ********************************************************************************************* PP
+
+  MN908947.3_281  284 iiktiqprvekkkldgfmgrirsvypvaspnecnqmclstlmkcdhcgetswqtgdfvkatcefcgtenltkegattcgylpqnavvkiycpa 376 
+                       +k iqprvekkk +gfmgrirsvypvasp ecn m lstlmkc+hc e swqt df+katce cgtenl  eg ttcgylp navvk+ cpa
+      CHEMBL5542  280 KVKVIQPRVEKKKTEGFMGRIRSVYPVASPQECNNMHLSTLMKCNHCDEVSWQTCDFLKATCEHCGTENLVIEGPTTCGYLPTNAVVKMPCPA 372 
+                      ********************************************************************************************* PP
+
+  MN908947.3_281  377 chnsevgpehslaeyhnesglktilrkggrtiafggcvfsyvgchnkcaywvprasanigcnhtgvvgegseglndnlleilqkekvninivg 469 
+                      c++ e+gpehs+a+yhn s+++t lrkggrt  fggcvf+yvgc+nk aywvprasa+ig  htg+ g++ e ln++lleil +e+vninivg
+      CHEMBL5542  373 CQDPEIGPEHSVADYHNHSNIETRLRKGGRTRCFGGCVFAYVGCYNKRAYWVPRASADIGSGHTGITGDNVETLNEDLLEILSRERVNINIVG 465 
+                      ********************************************************************************************* PP
+
+  MN908947.3_281  470 dfklneeiaiilasfsastsafvetvkgldykafkqivescgnfkvtkgkakkgawnigeqksilsplyafaseaarvvrsifsrtletaqns 562 
+                      df lnee+aiilasfsastsaf++t+k+ldyk+fk ivescgn+kvtkgk  kgawnig+q+s+l+pl  f s+aa v+rsif+rtl+ a +s
+      CHEMBL5542  466 DFHLNEEVAIILASFSASTSAFIDTIKSLDYKSFKTIVESCGNYKVTKGKPVKGAWNIGQQRSVLTPLCGFPSQAAGVIRSIFARTLDAANHS 558 
+                      ********************************************************************************************* PP
+
+  MN908947.3_281  563 vrvlqkaaitildgisqyslrlidammftsdlatnnlvvmayitggvvqltsqwltnifgtvyeklkpvldwleekfkegveflrdgweivkf 655 
+                      +  lq+aa+tildgis+ slrl+dam++tsdl tn++++may+tgg+vq tsqwl+n++gt  ekl+p+++w+e k+  gvefl+d+wei+kf
+      CHEMBL5542  559 IPDLQRAAVTILDGISEQSLRLVDAMVYTSDLLTNSVIIMAYVTGGLVQQTSQWLSNLLGTTVEKLRPIFEWIEAKLSAGVEFLKDAWEILKF 651 
+                      ********************************************************************************************* PP
+
+  MN908947.3_281  656 istcaceivggqivtcakeikesvqtffklvnkflalcadsiiiggaklkalnlgetfvthskglyrkcvksreetgllmplkapkeiifleg 748 
+                      + t   +iv gqi  ++  ik+ v+ f+ +vnk l +c d + i+gakl++lnlge f+ +skglyr+c++ +e+  llmplkapke+ fleg
+      CHEMBL5542  652 LITGVFDIVKGQIQVASDNIKDCVKCFIDVVNKALEMCIDQVTIAGAKLRSLNLGEVFIAQSKGLYRQCIRGKEQLQLLMPLKAPKEVTFLEG 744 
+                      ********************************************************************************************* PP
+
+  MN908947.3_281  749 etlptevlteevvlktgdlqpleqptseaveaplvgtpvcinglmlleikdtekycalapnmmvtnntftlkggaptk.vtfgddtvievqgy 840 
+                      ++  t + +eevvlk g+l+ le p        +vgtpvc+nglmlleikd e+ycal+p ++ tnn f lkggap k vtfg+dtv evqgy
+      CHEMBL5542  745 DSHDTVLTSEEVVLKNGELEALETPVDSFTNGAIVGTPVCVNGLMLLEIKDKEQYCALSPGLLATNNVFRLKGGAPIKgVTFGEDTVWEVQGY 837 
+                      ****************************************************************************9879************* PP
+
+  MN908947.3_281  841 ksvnitfelderidkvlnekcsaytvelgtevnefacvvadaviktlqpvselltplgidldewsmatyylfdesgefklashmycsfyppde 933 
+                      k+v itfelder+dkvlnekcs ytve gtev efacvva+av+ktlqpvs+llt +gidldews+at+ylfd++ge  ++s+mycsfyppde
+      CHEMBL5542  838 KNVRITFELDERVDKVLNEKCSVYTVESGTEVTEFACVVAEAVVKTLQPVSDLLTNMGIDLDEWSVATFYLFDDAGEENFSSRMYCSFYPPDE 930 
+                      ********************************************************************************************9 PP
+
+  MN908947.3_281  934 dee.egdceeeefepstqyeygteddyqgkplefgatsaalqpeeeqeedwldddsqqtvgqqdgsednqtttiqtivevqpqlemeltpvvq 1025
+                      +ee +++ceeee++ + ++eygteddyqg plefga++  ++ eee+eedwldd ++q+                   e++p+   e tp   
+      CHEMBL5542  931 EEEdDAECEEEEIDETCEHEYGTEDDYQGLPLEFGASAETVRVEEEEEEDWLDDTTEQS-------------------EIEPE--PEPTPE-- 1000
+                      8762689**********************************************976553...................34453..345664.. PP
+
+  MN908947.3_281 1026 tievnsfsgylkltdnvyiknadiveeakkvkptvvvnaanvylkhgggvagalnkatnnamqvesddyiatngplkvggscvlsghnlakhc 1118
+                         vn f+gylkltdnv ik  div+ea+   p v+vnaan++lkhgggvagalnkatn amq esddyi  ngpl vggsc+lsghnlak c
+      CHEMBL5542 1001 -EPVNQFTGYLKLTDNVAIKCVDIVKEAQSANPMVIVNAANIHLKHGGGVAGALNKATNGAMQKESDDYIKLNGPLTVGGSCLLSGHNLAKKC 1092
+                      .368***************************************************************************************** PP
+
+  MN908947.3_281 1119 lhvvgpnvnkgediqllksayenfnqhevllapllsagifgadpihslrvcvdtvrtnvylavfdknlydklvssflemksekqveqkiaeip 1211
+                      lhvvgpn+n gediqllk+ayenfn +++llapllsagifga p++sl+vcv tvrt vy+av dk ly+++v  +l+    +    k  e p
+      CHEMBL5542 1093 LHVVGPNLNAGEDIQLLKAAYENFNSQDILLAPLLSAGIFGAKPLQSLQVCVQTVRTQVYIAVNDKALYEQVVMDYLDNLKPRVEAPKQEEPP 1185
+                      *****************************************************************************9765443334444444 PP
+
+  MN908947.3_281 1212 keevkpfiteskpsveqrkqddk.kikacveevtttleetkfltenlllyidingnlhpdsatlvsdiditflkkdapyivgdvvqegvltav 1303
+                        e     te k  v q+  d k kikac++evtttleetkflt  lll+ ding l+ ds  ++   d++fl+kdapy+vgdv+  g +t v
+      CHEMBL5542 1186 NTE--DSKTEEKS-VVQKPVDVKpKIKACIDEVTTTLEETKFLTNKLLLFADINGKLYHDSQNMLRGEDMSFLEKDAPYMVGDVITSGDITCV 1275
+                      433..34567665.55666665449******************************************************************** PP
+
+  MN908947.3_281 1304 viptkkaggttemlakalrkvptdnyittypgqglngytveeaktvlkkcksafyilpsiisnekqeilgtvswnlremlahaeetrklmpvc 1396
+                      vip+kkaggtteml++al+kvp d yittypgqg  gyt+eeakt lkkcksafy+lps   n k+eilgtvswnlremlahaeetrklmp+c
+      CHEMBL5542 1276 VIPSKKAGGTTEMLSRALKKVPVDEYITTYPGQGCAGYTLEEAKTALKKCKSAFYVLPSEAPNAKEEILGTVSWNLREMLAHAEETRKLMPIC 1368
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 1397 vetkaivstiqrkykgikiqegvvdygarfyfytskttvaslintlndlnetlvtmplgyvthglnleeaarymrslkvpatvsvsspdavta 1489
+                      ++ +ai++tiqrkykgikiqeg+vdyg rf+fytsk  vas+i  ln lne lvtmp+gyvthg+nleeaar mrslk pa vsvsspdavt 
+      CHEMBL5542 1369 MDVRAIMATIQRKYKGIKIQEGIVDYGVRFFFYTSKEPVASIITKLNSLNEPLVTMPIGYVTHGFNLEEAARCMRSLKAPAVVSVSSPDAVTT 1461
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 1490 yngyltsssktpeehfietislagsykdwsysgqstqlgieflkrgdksvyyt.snpttfhldgevitfdnlktllslrevrtikvfttvdni 1581
+                      yngyltssskt eehf+et+slagsy+dwsysgq t+lg+eflkrgdk vy+t  +p  fhldgev+++d lk+llslrev+tikvfttvdn 
+      CHEMBL5542 1462 YNGYLTSSSKTSEEHFVETVSLAGSYRDWSYSGQRTELGVEFLKRGDKIVYHTlESPVEFHLDGEVLSLDKLKSLLSLREVKTIKVFTTVDNT 1554
+                      ****************************************************9558************************************* PP
+
+  MN908947.3_281 1582 nlhtqvvdmsmtygqqfgptyldgadvtkikphnshegktfyvlpnddtlrveafeyyhttdpsflgrymsalnhtkkwkypqvngltsikwa 1674
+                      nlhtq+vdmsmtygqqfgptyldgadvtkikph +hegktf+vlp+ddtlr eafeyyht d sflgrymsalnhtkkwk+pqv gltsikwa
+      CHEMBL5542 1555 NLHTQLVDMSMTYGQQFGPTYLDGADVTKIKPHVNHEGKTFFVLPSDDTLRSEAFEYYHTLDESFLGRYMSALNHTKKWKFPQVGGLTSIKWA 1647
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 1675 dnncylatalltlqqielkfnppalqdayyrarageaanfcalilaycnktvgelgdvretmsylfqhanldsckrvlnvvcktcgqqqttlk 1767
+                      dnncyl++ ll lqq+e+kfn palq+ayyrarag+aanfcalilay nktvgelgdvretm++l+qhanl+s+krvlnvvck cgq+ ttl 
+      CHEMBL5542 1648 DNNCYLSSVLLALQQLEVKFNAPALQEAYYRARAGDAANFCALILAYSNKTVGELGDVRETMTHLLQHANLESAKRVLNVVCKHCGQKTTTLT 1740
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 1768 gveavmymgtlsyeqfkkgvqipctcgkqatkylvqqespfvmmsappaqyelkhgtftcaseytgnyqcghykhitsketlycidgalltks 1860
+                      gveavmymgtlsy+ +k gv ipc cg+ at+ylvqqes fvmmsappa+y+l++gtf ca+eytgnyqcghy hit+ketly idga ltk 
+      CHEMBL5542 1741 GVEAVMYMGTLSYDNLKTGVSIPCVCGRDATQYLVQQESSFVMMSAPPAEYKLQQGTFLCANEYTGNYQCGHYTHITAKETLYRIDGAHLTKM 1833
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 1861 seykgpitdvfykensytttikpvtykldgvvcteidpkldnyykkdnsyfteqpidlvpnqpypnasfdnfkfvcdnikfaddlnqltgykk 1953
+                      seykgp+tdvfyke sytttikpv+ykldgv  tei+pkld yykkdn+y+teqpidlvp qp pnasfdnfk+ c n kfaddlnq+tg+ k
+      CHEMBL5542 1834 SEYKGPVTDVFYKETSYTTTIKPVSYKLDGVTYTEIEPKLDGYYKKDNAYYTEQPIDLVPTQPLPNASFDNFKLTCSNTKFADDLNQMTGFTK 1926
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 1954 pasrelkvtffpdlngdvvaidykhytpsfkkgakllhkpivwhvnnatnkatykpntwcirclwstkpvetsnsfdvlksedaqgmdnlace 2046
+                      pasrel vtffpdlngdvvaidy+hy+ sfkkgakllhkpivwh+n at k t+kpntwc+rclwstkpv+tsnsf+vl  ed qgmdnlace
+      CHEMBL5542 1927 PASRELSVTFFPDLNGDVVAIDYRHYSASFKKGAKLLHKPIVWHINQATTKTTFKPNTWCLRCLWSTKPVDTSNSFEVLAVEDTQGMDNLACE 2019
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 2047 dlkpvseevvenptiqkdvlecnvkttevvgdiilkpannslkiteevghtdlmaayvdnssltikkpnelsrvlglktlathglaavnsvpw 2139
+                        +p seevvenptiqk+v+ec+vkttevvg++ilkp++  +k+t+e+gh dlmaayv+n+s+tikkpnels  lglkt+athg+aa+nsvpw
+      CHEMBL5542 2020 SQQPTSEEVVENPTIQKEVIECDVKTTEVVGNVILKPSDEGVKVTQELGHEDLMAAYVENTSITIKKPNELSLALGLKTIATHGIAAINSVPW 2112
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 2140 dtianyakpflnkvvstttnivtrclnrvctnympyfftlllqlctftrstnsrikasmpttiakntvksvgkfcleasfnylkspnfsklin 2232
+                        i  y kpfl +   tt+n   r   rv  nympy ftll+qlctft+stnsri+as+pttiakn+vksv+k+cl+a +ny+ksp fskl+ 
+      CHEMBL5542 2113 SKILAYVKPFLGQAAITTSNCAKRLAQRVFNNYMPYVFTLLFQLCTFTKSTNSRIRASLPTTIAKNSVKSVAKLCLDAGINYVKSPKFSKLFT 2205
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 2233 iiiwflllsvclgsliystaalgvlmsnlgmpsyctgyregylnstnvtiatyctgsipcsvclsgldsldtypsletiqitissfkwdltaf 2325
+                      i +w+llls+clgsli  taa+gvl+sn+g psyc g re ylns+nvt   +c gs+pcs+clsgldsld+yp+letiq+tiss+k dlt +
+      CHEMBL5542 2206 IAMWLLLLSICLGSLICVTAAFGVLLSNFGAPSYCNGVRELYLNSSNVTTMDFCEGSFPCSICLSGLDSLDSYPALETIQVTISSYKLDLTIL 2298
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 2326 glvaewflayilftrffyvlglaaimqlffsyfavhfisnswlmwliinlvqmapisamvrmyiffasfyyvwksyvhvvdgcnsstcmmcyk 2418
+                      gl aew lay+lft+ffy+lgl+aimq+ff yfa hfisnswlmw+ii++vqmap+samvrmyiffasfyy+wksyvh++dgc sstcmmcyk
+      CHEMBL5542 2299 GLAAEWVLAYMLFTKFFYLLGLSAIMQVFFGYFASHFISNSWLMWFIISIVQMAPVSAMVRMYIFFASFYYIWKSYVHIMDGCTSSTCMMCYK 2391
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 2419 rnratrvecttivngvrrsfyvyanggkgfcklhnwncvncdtfcagstfisdevardlslqfkrpinptdqssyivdsvtvkngsihlyfdk 2511
+                      rnratrvecttivng++rsfyvyangg+gfck hnwnc+ncdtfc gstfisdevardlslqfkrpinptdqssyivdsv vkng++hlyfdk
+      CHEMBL5542 2392 RNRATRVECTTIVNGMKRSFYVYANGGRGFCKTHNWNCLNCDTFCTGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVAVKNGALHLYFDK 2484
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 2512 agqktyerhslshfvnldnlranntkgslpinvivfdgkskceessaksasvyysqlmcqpillldqalvsdvgdsaevavkmfdayvntfss 2604
+                      agqktyerh lshfvnldnlranntkgslpinvivfdgkskc+es++ksasvyysqlmcqpillldqalvsdvgds ev+vkmfdayv+tfs+
+      CHEMBL5542 2485 AGQKTYERHPLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCDESASKSASVYYSQLMCQPILLLDQALVSDVGDSTEVSVKMFDAYVDTFSA 2577
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 2605 tfnvpmeklktlvataeaelaknvsldnvlstfisaarqgfvdsdvetkdvveclklshqsdievtgdscnnymltynkvenmtprdlgacid 2697
+                      tf+vpmeklk lvata +elak v+ld vlstf+saarqg vd+dv+tkdv+eclklsh sd+evtgdscnn+mltynkvenmtprdlgacid
+      CHEMBL5542 2578 TFSVPMEKLKALVATAHSELAKGVALDGVLSTFVSAARQGVVDTDVDTKDVIECLKLSHHSDLEVTGDSCNNFMLTYNKVENMTPRDLGACID 2670
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 2698 csarhinaqvakshnialiwnvkdfmslseqlrkqirsaakknnlpfkltcattrqvvnvvttkialkggkivnnwlkqlikvtlvflfvaai 2790
+                      c+arhinaqvakshn++liwnvkd+mslseqlrkqirsaakknn+pf+ltcattrqvvnv+ttki+lkggkiv+  +k ++k tl+ ++ a +
+      CHEMBL5542 2671 CNARHINAQVAKSHNVSLIWNVKDYMSLSEQLRKQIRSAAKKNNIPFRLTCATTRQVVNVITTKISLKGGKIVSTCFKLMLKATLLCVLAALV 2763
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 2791 fylitpvhvmskhtdfsseiigykaidggvtrdiastdtcfankhadfdtwfsqrggsytndkacpliaavitrevgfvvpglpgtilrttng 2883
+                       y++ pvh +s h  +++eiigykai  gvtrdi std cfankha fd wfsqrggsy ndk+cp++aa+itre+gf+vpglpgt+lr  ng
+      CHEMBL5542 2764 CYIVMPVHTLSIHDGYTNEIIGYKAIQDGVTRDIISTDDCFANKHAGFDAWFSQRGGSYKNDKSCPVVAAIITREIGFIVPGLPGTVLRAING 2856
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 2884 dflhflprvfsavgnicytpsklieytdfatsacvlaaectifkdasgkpvpycydtnvlegsvayeslrpdtryvlmdgsiiqfpntylegs 2976
+                      dflhflprvfsavgnicytpskliey+dfatsacvlaaectifkda gkpvpycydtn+legs++y  lrpdtryvlmdgsiiqfpntylegs
+      CHEMBL5542 2857 DFLHFLPRVFSAVGNICYTPSKLIEYSDFATSACVLAAECTIFKDAMGKPVPYCYDTNLLEGSISYSELRPDTRYVLMDGSIIQFPNTYLEGS 2949
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 2977 vrvvttfdseycrhgtcerseagvcvstsgrwvlnndyyrslpgvfcgvdavnlltnmftpliqpigaldisasivaggivaivvtclayyfm 3069
+                      vrvvttfd+eycrhgtcerse g+c+stsgrwvlnn++yr+l gvfcgvda+nl+ n+ftpl+qp+gald+sas+vaggi+ai+vtc ayyfm
+      CHEMBL5542 2950 VRVVTTFDAEYCRHGTCERSEVGICLSTSGRWVLNNEHYRALSGVFCGVDAMNLIANIFTPLVQPVGALDVSASVVAGGIIAILVTCAAYYFM 3042
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 3070 rfrrafgeyshvvafntllflmsftvlcltpvysflpgvysviylyltfyltndvsflahiqwmvmftplvpfwitiayiicistkhfywffs 3162
+                      +frr fgey+hvva n llflmsft+lcl p ysflpgvysv+ylyltfy+tndvsflah+qw+ mf+p+vpfwit  y++cis kh +wff+
+      CHEMBL5542 3043 KFRRVFGEYNHVVAANALLFLMSFTILCLVPAYSFLPGVYSVFYLYLTFYFTNDVSFLAHLQWFAMFSPIVPFWITAIYVFCISLKHCHWFFN 3135
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 3163 nylkrrvvfngvsfstfeeaalctfllnkemylklrsdvllpltqynrylalynkykyfsgamdttsyreaacchlakalndfsnsgsdvlyq 3255
+                      nyl++rv+fngv+fstfeeaalctfllnkemylklrs+ llpltqynrylalynkykyfsga+dttsyreaacchlakalndfsnsg+dvlyq
+      CHEMBL5542 3136 NYLRKRVMFNGVTFSTFEEAALCTFLLNKEMYLKLRSETLLPLTQYNRYLALYNKYKYFSGALDTTSYREAACCHLAKALNDFSNSGADVLYQ 3228
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 3256 ppqtsitsavlqsgfrkmafpsgkvegcmvqvtcgtttlnglwlddvvycprhvictsedmlnpnyedllirksnhnflvqagnvqlrvighs 3348
+                      ppqtsitsavlqsgfrkmafpsgkvegcmvqvtcgtttlnglwldd vycprhvict+edmlnpnyedllirksnh+flvqagnvqlrvighs
+      CHEMBL5542 3229 PPQTSITSAVLQSGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDTVYCPRHVICTAEDMLNPNYEDLLIRKSNHSFLVQAGNVQLRVIGHS 3321
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 3349 mqncvlklkvdtanpktpkykfvriqpgqtfsvlacyngspsgvyqcamrpnftikgsflngscgsvgfnidydcvsfcymhhmelptgvhag 3441
+                      mqnc+l+lkvdt+npktpkykfvriqpgqtfsvlacyngspsgvyqcamrpn tikgsflngscgsvgfnidydcvsfcymhhmelptgvhag
+      CHEMBL5542 3322 MQNCLLRLKVDTSNPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNHTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAG 3414
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 3442 tdlegnfygpfvdrqtaqaagtdttitvnvlawlyaavingdrwflnrftttlndfnlvamkynyepltqdhvdilgplsaqtgiavldmcas 3534
+                      tdleg fygpfvdrqtaqaagtdttit+nvlawlyaavingdrwflnrftttlndfnlvamkynyepltqdhvdilgplsaqtgiavldmca+
+      CHEMBL5542 3415 TDLEGKFYGPFVDRQTAQAAGTDTTITLNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCAA 3507
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 3535 lkellqngmngrtilgsalledeftpfdvvrqcsgvtfqsavkrtikgthhwllltiltsllvlvqstqwslffflyenaflpfamgiiamsa 3627
+                      lkellqngmngrtilgs +ledeftpfdvvrqcsgvtfq   k+ +kgthhw+llt+ltsll+lvqstqwslfff+yenaflpf +gi+a++a
+      CHEMBL5542 3508 LKELLQNGMNGRTILGSTILEDEFTPFDVVRQCSGVTFQGKFKKIVKGTHHWMLLTFLTSLLILVQSTQWSLFFFVYENAFLPFTLGIMAIAA 3600
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 3628 fammfvkhkhaflclfllpslatvayfnmvympaswvmrimtwldmvdtslsgfklkdcvmyasavvllilmtartvyddgarrvwtlmnvlt 3720
+                       am++vkhkhaflclfllpslatvayfnmvympaswvmrimtwl++ dtslsg++lkdcvmyasa+vllilmtartvydd+arrvwtlmnv+t
+      CHEMBL5542 3601 CAMLLVKHKHAFLCLFLLPSLATVAYFNMVYMPASWVMRIMTWLELADTSLSGYRLKDCVMYASALVLLILMTARTVYDDAARRVWTLMNVIT 3693
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 3721 lvykvyygnaldqaismwaliisvtsnysgvvttvmflargivfmcveycpiffitgntlqcimlvycflgyfctcyfglfcllnryfrltlg 3813
+                      lvykvyygnaldqaismwal+isvtsnysgvvtt+mflar+ivf+cvey p++fitgntlqcimlvycflgy c cyfglfcllnryfrltlg
+      CHEMBL5542 3694 LVYKVYYGNALDQAISMWALVISVTSNYSGVVTTIMFLARAIVFVCVEYYPLLFITGNTLQCIMLVYCFLGYCCCCYFGLFCLLNRYFRLTLG 3786
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 3814 vydylvstqefrymnsqgllppknsidafklnikllgvggkpcikvatvqskmsdvkctsvvllsvlqqlrvesssklwaqcvqlhndillak 3906
+                      vydylvstqefrymnsqgllppk+sidafklnikllg+ggkpcikvatvqskmsdvkctsvvllsvlqqlrvesssklwaqcvqlhndillak
+      CHEMBL5542 3787 VYDYLVSTQEFRYMNSQGLLPPKSSIDAFKLNIKLLGIGGKPCIKVATVQSKMSDVKCTSVVLLSVLQQLRVESSSKLWAQCVQLHNDILLAK 3879
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 3907 dtteafekmvsllsvllsmqgavdinklceemldnratlqaiasefsslpsyaafataqeayeqavangdsevvlkklkkslnvaksefdrda 3999
+                      dtteafekmvsllsvllsmqgavdin+lceemldnratlqaiasefsslpsyaa+ataqeayeqavangdsevvlkklkkslnvaksefdrda
+      CHEMBL5542 3880 DTTEAFEKMVSLLSVLLSMQGAVDINRLCEEMLDNRATLQAIASEFSSLPSYAAYATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEFDRDA 3972
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 4000 amqrklekmadqamtqmykqarsedkrakvtsamqtmlftmlrkldndalnniinnardgcvplniiplttaaklmvvipdyntykntcdgtt 4092
+                      amqrklekmadqamtqmykqarsedkrakvtsamqtmlftmlrkldndalnniinnardgcvplniiplttaaklmvv+pdy tykntcdg t
+      CHEMBL5542 3973 AMQRKLEKMADQAMTQMYKQARSEDKRAKVTSAMQTMLFTMLRKLDNDALNNIINNARDGCVPLNIIPLTTAAKLMVVVPDYGTYKNTCDGNT 4065
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 4093 ftyasalweiqqvvdadskivqlseismdnspnlawplivtalransavklqnnelspvalrqmscaagttqtactddnalayynttkggrfv 4185
+                      ftyasalweiqqvvdadskivqlsei+mdnspnlawplivtalransavklqnnelspvalrqmscaagttqtactddnalayyn +kggrfv
+      CHEMBL5542 4066 FTYASALWEIQQVVDADSKIVQLSEINMDNSPNLAWPLIVTALRANSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAYYNNSKGGRFV 4158
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 4186 lallsdlqdlkwarfpksdgtgtiyteleppcrfvtdtpkgpkvkylyfikglnnlnrgmvlgslaatvrlqagnatevpanstvlsfcafav 4278
+                      lallsd qdlkwarfpksdgtgtiyteleppcrfvtdtpkgpkvkylyfikglnnlnrgmvlgslaatvrlqagnatevpanstvlsfcafav
+      CHEMBL5542 4159 LALLSDHQDLKWARFPKSDGTGTIYTELEPPCRFVTDTPKGPKVKYLYFIKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVLSFCAFAV 4251
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 4279 daakaykdylasggqpitncvkmlcthtgtgqaitvtpeanmdqesfggascclycrchidhpnpkgfcdlkgkyvqipttcandpvgftlkn 4371
+                      d akaykdylasggqpitncvkmlcthtgtgqaitvtpeanmdqesfggascclycrchidhpnpkgfcdlkgkyvqipttcandpvgftl+n
+      CHEMBL5542 4252 DPAKAYKDYLASGGQPITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHPNPKGFCDLKGKYVQIPTTCANDPVGFTLRN 4344
+                      ********************************************************************************************* PP
+
+  MN908947.3_281 4372 tvctvcgmwkgygcscdqlrepmlqsadaqsflng 4406
+                      tvctvcgmwkgygcscdqlrep++qsada +fln 
+      CHEMBL5542 4345 TVCTVCGMWKGYGCSCDQLREPLMQSADASTFLNR 4379
+                      *********************************95 PP
+
