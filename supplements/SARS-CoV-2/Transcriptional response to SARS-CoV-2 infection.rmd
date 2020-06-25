@@ -1,0 +1,19 @@
+---
+title: "Transcriptional response to SARS-CoV-2 infection"
+output: html_notebook
+---
+Series GSE147507
+
+```{r setup}
+library(GEOquery)
+library(limma)
+options('download.file.method.GEOquery'='curl')
+
+```
+
+```{r load}
+GSE147507<-getGEO("GSE147507",GSEMatrix = TRUE)
+GSM4432378=getGEO("GSM4432378")
+
+```
+
